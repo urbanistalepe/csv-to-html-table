@@ -1,0 +1,985 @@
+Timestamp,Clave de mapa,Número histórico,Proyecto ,Nombre del análisis,Estatus del analisis,Gerencia,Gerencias complementaria,Responsable técnico y participantes,Tematica principal LGAHOTDU,Tematicas secundarias  LGAHOTDU,Tipo de analisis,Tablas,Gráficas,Documentos,Otros,Nota metodologica,insumos consultados,Fuente,Tipo de información,Liga de drive,Image id,Ficha,Buscar,Color
+Hidden,,NoFilter,Hidden,,CategoryFilter,CategoryFilter,,,CategoryFilter,CategoryFilter,CategoryFilter,Hidden,Hidden,Hidden,Hidden,Hidden,Hidden,Hidden,Hidden,,Hidden,CardsContent,StringFilter,CardsColor
+9-Jan-2017,I-001,1,POTmet,Cobertura y red de agua potable en el AMG,Validado,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,GIA,Base,,,,,,,,,https://drive.google.com/open?id=1PT1uxQ-uynetVIVP6KZ3gy17LV-vVkQV,1PT1uxQ-uynetVIVP6KZ3gy17LV-vVkQV,,,#efde9d
+13-Jan-2017,I-002,1,,Antigüedad de tuberia de agua potable en el AMG,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Diagnóstico,2,2,2,,"Se propone utilizar multples criterios para la elaboración de la propuesta. Conociendo la densidad, sumatoría, conectividad, coberturas ","denue,  estructura vial , conectividad de la red vial , Indice de demanda laboral externa,  indice de suficiencia de servicios                                                         ","inegi,  ppdu,  imeplan		",Libre,,,,,#efde9d
+13-Jan-2017,I-003,1,,Antigüedad de tuberia de alcantarillado en el AMG,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+13-Jan-2017,I-003,2,,Antigüedad de tuberia de alcantarillado en el AMG 2019,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+13-Jan-2017,I-004,1,,Extracción de agua de los acuíferos ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+13-Jan-2017,I-005,1,,Descargar residuales en el AMG,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,Diagnóstico,,,,,,,,,,,,,
+13-Jan-2017,I-006,1,,Inundaciones,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,Diagnóstico,,,,,,,,,,,,,
+14-Jan-2017,I-007,1,,Estaciones de monitoreo y calidad del agua,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,Base,,,,,,,,,,,,,
+15-Jan-2017,I-008,1,,Calidad del agua,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,Diagnóstico,,,,,,,,,,,,,
+16-Jan-2017,I-009,1,,Cobertura y red de drenaje en el AMG,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,Base,,,,,,,,,,,,,
+17-Jan-2017,I-010,1,,Aptitud de urbanización por distancia a servicios de agua potable y drenaje,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+18-Jan-2017,I-011,1,,Hidrografía,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-012,1,,Zona de influencia de agua potable,,,,,,,,,,,,,,,,,,,,
+19-Jan-2017,I-013,1,,Espacios verdes y cuerpos de agua (macroperspectativa),,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+20-Jan-2017,I-014,1,,Aptitud de urbanización por riesgos de inundación,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+21-Jan-2017,I-015,1,,Reservas territoriales y cobertura de agua potable,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-016,1,,Topografía,,,,,,,,,,,,,,,,,,,,
+,I-017,1,,Uso del suelo y vegetación,,,,,,,,,,,,,,,,,,,,
+22-Jan-2017,I-018,1,,Geología,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+23-Jan-2017,I-019,1,,Clima,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+24-Jan-2017,I-020,1,,Edafología,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+25-Jan-2017,I-021,1,,Fisiografía,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-022,1,,Sistema urbano rural-centros de población,,,,,,,,,,,,,,,,,,,,
+26-Jan-2017,I-023,1,,Índice de conectividad con estructura primaria de urbanización,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+27-Jan-2017,I-024,1,,Pendiente del terreno ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+28-Jan-2017,I-025,1,,Índice de valor ecosistémico ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+29-Jan-2017,I-026,1,,"Infraestructura básica (agua, energía y residuos)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+30-Jan-2017,I-027,1,,Grado de marginación y asentamientos de origen irregular,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+31-Jan-2017,I-028,1,,Infraestructura territorial ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+1-Feb-2017,I-029,1,,Porcentaje de vivienda desocupada,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,DCU,,,,,,,,,,,,,,,#cbcbcb
+,I-030,1,,Suelo no construido intraurbano,,,,,,,,,,,,,,,,,,,,
+2-Feb-2017,I-031,1,,Áreas Naturales Protegidas,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,PRE,,,,,,,,,,,,,,,#73b673
+3-Feb-2017,I-032,1,,Población total,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,,,,,,,,,,,,,,#efde9d
+4-Feb-2017,I-033,1,,Núcleos agrarios,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,,,,,,,,,,,,,,#efde9d
+5-Feb-2017,I-034,1,,Conflicto de límites municipales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,,,,,,,,,,,,,,#efde9d
+6-Feb-2017,I-035,1,,Densidad de población por manzana,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,,,,,,,,,,,,,,#efde9d
+7-Feb-2017,I-036,1,,Delimitación del Área Metropolitana de Guadalajara,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,,,,,,,,,,,,,,#efde9d
+8-Feb-2017,I-037,1,,Área de servicio trasporte público urbano (cobertura),,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,IVT,,,,,,,,,,,,,,,#f7c917
+9-Feb-2017,I-038,1,,Aptitud de desarrollo de nueva vivienda,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,IVT,,,,,,,,,,,,,,,#f7c917
+10-Feb-2017,I-039,1,,Índice de suficiencia de servicios básicos,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,IVT,,,,,,,,,,,,,,,#f7c917
+11-Feb-2017,I-040,1,,Índice de deficiencia de servicios básicos,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,IVT,,,,,,,,,,,,,,,#f7c917
+,I-041,1,,Transporte masivo,,,,,,,,,,,,,,,,,,,,
+,I-042,1,,Predios con compatibilidad habitacional (H y M) en corredores de transporte masivo y perímetros de contención urbana,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,DCU,,,,,,,,,,,,,,,#cbcbcb
+,I-043,1,,Transporte masivo y perímetros de contención urbana,,,,,,,,,,,,,,,,,,,,
+,I-044,1,,Distribución de la población por radio de influencia en torno al transporte masivo,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-045,1,,Densidad de vivienda por hectárea entorno al transporte masivo,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-046,1,,Suelo intraurbano entorno al transporte masivo,,,,,,,,,,,,,,,,,,,,
+,I-047,1,,Predios con compatibilidad solo habitacional,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-048,1,,Suelo intraurbano y distribución de la población por radio de Influencia en torno al transporte masivo,,,,,,,,,,,,,,,,,,,,
+,I-049,1,,Viviendas habitadas que no disponen de agua entubada,,,,,,,,,,,,,,,,,,,,
+,I-050,1,,Aptitud de agricultura de riego,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-051,1,,Aptitud de agricultura de temporal,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-052,1,,Aptitud de actividades pecuarias extensivas,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-053,1,,Aptitud de actividades pecuarias intensivas,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-054,1,,Aptitud general del sector agropecuario,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-055,1,,Acumulación de aptitud del sector agropecuario,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-056,1,,Aptitud de conservación,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-057,1,,Aptitud general del sector vivienda,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-057,2,,Aptitud general del sector vivienda año 2019,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-058,1,,Aptitud general del sector industrial,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-059,1,,Conflicto entre sector vivienda e industria,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-060,1,,Aptitud de conservación y Áreas Naturales Protegidas,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-061,1,,Aptitud de conservación y polígonos de protección en OE y PPDU,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-062,1,,Uso óptimo del territorio,,,,,,,,,,,,,,,,,,,,
+,I-063,1,,Uso de suelo primario de instrumentos de planeación municipal(macroperspectiva),,,,,,,,,,,,,,,,,,,,
+,I-064,1,,Clasificación de área de instrumentos de planeación municipal(macroperspectiva),,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-065,1,,Propuesta de solución de conflictos intermunicipales - Identificación,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-066,1,,Propuesta de solución de conflictos intermunicipales - Clasificación,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-067,1,,Áreas de restricción a infraestructura e instalaciones especiales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-068,1,,Estructura urbana (macroperspectiva),,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-069,1,,Límites municipales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-070,1,,Vías ferreas aeropuertos terminales,,,,,,,,,,,,,,,,,,,,
+,I-071,1,,"Estructura vial (vialidades regionales,principales y nodos viales)",,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-072,1,,Conflictos entre límites municipales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-073,1,,Síntesis del diagnóstico ,,,,,,,,,,,,,,,,,,,,
+,I-074,1,,Identificación de conflictos intermunicipales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-075,1,,Clasificación de conflictos intermunicipales,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-076,1,,Densidad de actividades agropecuarias,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-077,1,,Grado de conectividad metropolitana,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-078,1,,Peligros asociados a riesgos geológicos,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-079,1,,Peligros asociados al agrietamiento del terreno,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-080,1,,Peligros asociados al flujo de lodos y escombros,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-081,1,,Peligros asociados a hundimientos,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-082,1,,Peligros asociados a inestabilidad de laderas,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-083,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-084,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-085,1,,Peligros asociados a riesgos de inundación,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-086,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-087,1,,Clasificación de inmuebles patrimoniales en el centro de Guadalajara,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-088,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-089,1,,Cobertura área urbana - Espacio construido 1990 - 2015,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-090,1,,Cobertura área urbana - Evolución de la huella de ciudad 1990 - 2015 ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-091,1,,Fragmentación - Discontinuidad nuevos desarrollos urbanos 1990 - 2015 ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-092,1,,Aptitud territorial para sector urbano ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-093,1,,Reservas urbanas existentes de instrumentos de planeación vigentes,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-094,1,,Aptitud multisectorial (uso óptimo del suelo),,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-095,1,,Perímetros de crecimiento y áreas de crecimiento ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-096,1,,Traslapes POEL Zapopan ambiental,,,,,,,,,,,,,,,,,,,,
+,I-097,1,,Traslapes POEL Zapopan políticas,,,,,,,,,,,,,,,,,,,,
+,I-098,1,,Traslapes POEL Tlajomulco políticas,,,,,,,,,,,,,,,,,,,,
+,I-099,1,,Traslapes POEL Tlajomulco cobertura,,,,,,,,,,,,,,,,,,,,
+,I-100,1,,Traslapes POET AMG ambiental,,,,,,,,,,,,,,,,,,,,
+,I-101,1,,Traslapes POET AMG,,,,,,,,,,,,,,,,,,,,
+,I-102,1,,Zonificación Primaria ,,,,,,,,,,,,,,,,,,,,
+,I-103,1,,Reservas urbanas PPDU,,,,,,,,,,,,,,,,,,,,
+,I-104,1,,Cauces desaparecidos,,,,,,,,,,,,,,,,,,,,
+,I-105,1,,Límite de distritos y subtistritos del AMG,,,,,,,,,,,,,,,,,,,,
+17/02/2020,I-105,2,POTmet,Límite de distritos y subtistritos del AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Alejandro Lepe,POT,,,,,,,,,,,https://drive.google.com/open?id=1eYbxqJGBGe2BlRNS8DouGQhakf3G4weq,1eYbxqJGBGe2BlRNS8DouGQhakf3G4weq,,,#efde9d
+,I-106,1,,Estrategia de estructura urbana metropolitana,,,,,,,,,,,,,,,,,,,,
+,I-107,1,,Estrategia para transporte masivo y alimentador,,,,,,,,,,,,,,,,,,,,
+,I-108,1,,Estrategia de  movilidad no motorizada y transporte masivo,,,,,,,,,,,,,,,,,,,,
+,I-109,1,,Escenario tendencial de crecimiento urbano a 2045,,,,,,,,,,,,,,,,,,,,
+,I-110,1,,Estrategia de sistema verde,,,,,,,,,,,,,,,,,,,,
+,I-111,1,,Usos mixtos y potencialmente mixtos,,,,,,,,,,,,,,,,,,,,
+,I-112,1,,Programa de Ordenamiento Ecológico Territorial de Jalisco,,,,,,,,,,,,,,,,,,,,
+,I-113,1,,Polígonos con potencial de densificación,,,,,,,,,,,,,,,,,,,,
+,I-114,1,,Índice de demanda laboral (externa),,,,,,,,,,,,,,,,,,,,
+,I-115,1,,Traslapes POET AMG uso predominante con instrumentos normativos,,,,,,,,,,,,,,,,,,,,
+,I-116,1,,Propuesta de solución de conflictos intermunicipales (Zapopan-Guadalajara),,,,,,,,,,,,,,,,,,,,
+,I-117,1,,Propuesta de solución de conflictos intermunicipales (Guadalajara-Tlaquepaque-Tonalá),,,,,,,,,,,,,,,,,,,,
+,I-118,1,,Propuesta de solución de conflictos intermunicipales (Zapopan-Tlaquepaque-Tlajomulco),,,,,,,,,,,,,,,,,,,,
+,I-119,1,,Propuesta de solución de conflictos intermunicipales (Tlaquepaque-Tlajomulco),,,,,,,,,,,,,,,,,,,,
+,I-120,1,,Propuesta de solución de conflictos intermunicipales (Tlaquepaque-Tlajomulco-Juanacatlán-Tonalá-El Salto),,,,,,,,,,,,,,,,,,,,
+,I-121,1,,Propuesta de solución de conflictos intermunicipales (Tlajomulco-Ixtlahuacán de los Membrillos),,,,,,,,,,,,,,,,,,,,
+,I-122,1,,Propuesta de solución de conflictos intermunicipales (Guadalajara-Zapotlanejo-Tonalá),,,,,,,,,,,,,,,,,,,,
+,I-123,1,,Propuesta de Nueva Distratación,,,,,,,,,,,,,,,,,,,,
+,I-124.001,1,Atlas de Riesgos,INFRAESTRUCTURA PLUVIAL PIMI CONTRASTE EN CONTRASTE CON INUNDACIONES,En proceso,,,,,,,,,,,,,,,,,,,
+,I-125,1,,Vacate,,,,,,,,,,,,,,,,,,,,
+,I-126,1,,Comparativa de estudio de viviendad CONAVI perímetros de crecimiento POTmet ,,,,,,,,,,,,,,,,,,,,
+,I-127,1,,Distribución de espacios verdes por centralidad,,,,,,,,,,,,,,,,,,,,
+,I-128,1,,Clasificación de localidades urbanas,,,,,,,,,,,,,,,,,,,,
+,I-129,1,,Nuevos Entornos Urbano Sustentables(NEUS),,,,,,,,,,,,,,,,,,,,
+,I-130,1,,Corredores metropolitanos de consolidación y regeneración urbana,,,,,,,,,,,,,,,,,,,,
+,I-131,1,,Perímetro de contención urbana (SEDATU 2014),,,,,,,,,,,,,,,,,,,,
+,I-132,1,,Perímetro de contención urbana (SEDATU 2015),,,,,,,,,,,,,,,,,,,,
+,I-133,1,,Histórico perímetro de contención urbana (SEDATU 2013-2015),,,,,,,,,,,,,,,,,,,,
+,I-134,1,,Clasificación de áreas de crecimiento por política de control a la expansión urbana,,,,,,,,,,,,,,,,,,,,
+,I-135,1,,Perímetro de contención urbana (SEDATU 2013),,,,,,,,,,,,,,,,,,,,
+,I-136,1,,Cobertura de agua potable municipio de Tlajomulco de Zuñiga,,,,,,,,,,,,,,,,,,,,
+,I-137,1,,Cobertura de drenaje municipio de Tlajomulco de Zuñiga,,,,,,,,,,,,,,,,,,,,
+,I-138,1,,Bosques urbanos,,,,,,,,,,,,,,,,,,,,
+,I-139,1,,Transporte no motorizado,,,,,,,,,,,,,,,,,,,,
+,I-140,1,,Estaciones de monitoreo de la calidad del aire,,,,,,,,,,,,,,,,,,,,
+,I-141,1,,Concentración de rutas de transporte público colectivo,,,,,,,,,,,,,,,,,,,,
+,I-142,1,,Proyectos del fondo metropolitano (2016-2018),,,,,,,,,,,,,,,,,,,,
+,I-143,1,,Cobertura de agua potable municipio de Zapopan,,,,,,,,,,,,,,,,,,,,
+,I-144,1,,Cobertura de drenaje municipio de Zapopan,,,,,,,,,,,,,,,,,,,,
+,I-145,1,,Número de vehículos por manzana,,,,,,,,,,,,,,,,,,,,
+,I-146,1,,Cobertura e infraestructura de agua potable municipio de Ixtlahuacán de los Membrillos ,,,,,,,,,,,,,,,,,,,,
+,I-147,1,,Cobertura e infraestructura de drenaje municipio de Ixtlahuacán de los Membrillos ,,,,,,,,,,,,,,,,,,,,
+,I-148,1,,Cobertura e infraestructura de agua potable del municipio de Juanacatlán,,,,,,,,,,,,,,,,,,,,
+,I-149,1,,Cobertura e infraestructura de drenaje del municipio de Juanacatlán (D-IN-394),,,,,,,,,,,,,,,,,,,,
+,I-150,1,,Paramétrico de valores de suelo en corredores de transporte masivo,,,,,,,,,,,,,,,,,,,,
+,I-151,1,,Paramétrico de valores de suelo en corredores de transporte masivo (vacíos intraurbanos),,,,,,,,,,,,,,,,,,,,
+,I-152,1,,Priorización de zonas para la vivienda (estado actual de la centralidad),,,,,,,,,,,,,,,,,,,,
+,I-153,1,,Paramétrico de valores de suelo en zonas de clasificación muy alta para vivienda,,,,,,,,,,,,,,,,,,,,
+,I-154,1,,Paramétrico de valores de suelo en zonas de clasificación alta para vivienda,,,,,,,,,,,,,,,,,,,,
+,I-155,1,,Paramétrico de valores de suelo en zonas de clasificación media para vivienda,,,,,,,,,,,,,,,,,,,,
+,I-156,1,,Paramétrico de valores de suelo en zonas de clasificación baja para vivienda,,,,,,,,,,,,,,,,,,,,
+,I-157,1,,Corredores y barrios DOT,,,,,,,,,,,,,,,,,,,,
+,I-158,1,,Estimación de la cobertura de espacio público,,,,,,,,,,,,,,,,,,,,
+,I-159,1,,Estimación de cobertura de equipamiento cultural y recreativo,,,,,,,,,,,,,,,,,,,,
+,I-160,1,,Infraestructura de manejo de residuos,,,,,,,,,,,,,,,,,,,,
+,I-161,1,,,,,,,,,,,,,,,,,,,,,,
+,I-162,1,,Derechohabiencia a seguridad social,,,,,,,,,,,,,,,,,,,,
+,I-163,1,,"Fenómenos perturbadores considerados para los asentamientos irregulares con incidencia de peligros, hasta noviembre 2016",,,,,,,,,,,,,,,,,,,,
+,I-164,1,,Índice de suficiencia de servicios básicos y centralidades,,,,,,,,,,,,,,,,,,,,
+,I-165,1,,Fenómenos perturbadores de tipo geológico,,,,,,,,,,,,,,,,,,,,
+,I-166,1,,"Asentamientos irregulares, hasta noviembre 2016, con insidencia de peligros",,,,,,,,,,,,,,,,,,,,
+,I-167,1,,Cobertura e infraestructura de agua potable municipio de San Pedro Tlaquepaque,,,,,,,,,,,,,,,,,,,,
+,I-168,1,,Cobertura e infraestructura de drenaje municipio de San Pedro Tlaquepaque,,,,,,,,,,,,,,,,,,,,
+,I-169,1,,Perímetros de crecimiento condicionante de compacidad,,,,,,,,,,,,,,,,,,,,
+,I-170,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-171,1,,Fenómenos perturbadores de tipo hidrometeorológicos,,,,,,,,,,,,,,,,,,,,
+,I-172,1,,Cobertura e infraestructura de agua potable del municipio de El Salto,,,,,,,,,,,,,,,,,,,,
+,I-173,1,,Cobertura e infraestructura de drenaje del municipio de El Salto,,,,,,,,,,,,,,,,,,,,
+,I-174,1,,Mapa base centralidad Solidaridad-Tetlán,,,,,,,,,,,,,,,,,,,,
+,I-175,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-176,1,,Vacante,,,,,,,,,,,,,,,,,,,,
+,I-177,1,,Unidades resilientes,,,,,,,,,,,,,,,,,,,,
+,I-178,1,,Región centro del Estado de Jalisco,,,,,,,,,,,,,,,,,,,,
+,I-180,1,,Zonas de protección a centros históticos y barrios tradicionales,,,,,,,,,,,,,,,,,,,,
+,I-182,1,,Población total por subdivisión,,,,,,,,,,,,,,,,,,,,
+,I-183,1,,Población económicamente activa por sector,,,,,,,,,,,,,,,,,,,,
+,I-184,1,,Poblacion ocupada en actividades primarias,,,,,,,,,,,,,,,,,,,,
+,I-185,1,,Líneas de atención preescolar,,,,,,,,,,,,,,,,,,,,
+,I-186,1,,Línea de atención inicial,,,,,,,,,,,,,,,,,,,,
+,I-187,1,,Líneas de atención primarias,,,,,,,,,,,,,,,,,,,,
+,I-188,1,,Líneas de atención secundaria,,,,,,,,,,,,,,,,,,,,
+,I-189,1,,Lineas de atención bachillerato,,,,,,,,,,,,,,,,,,,,
+,I-190,1,,Lineas de atención bachillerato,,,,,,,,,,,,,,,,,,,,
+,I-191,1,,Línea de atención Superior,,,,,,,,,,,,,,,,,,,,
+,I-192,1,,Línea de atención de especial,,,,,,,,,,,,,,,,,,,,
+,I-193,1,,Línea de atención de Técnico Superior,,,,,,,,,,,,,,,,,,,,
+,I-194,1,,Línea de atención de Centros de Salud,,,,,,,,,,,,,,,,,,,,
+,I-195,1,,Aptitud de urbanización por distancia núcleos urbanos,,,,,,,,,,,,,,,,,,,,
+,I-196,1,,Utilidad de urbanización en función de capacidad de transporte público,,,,,,,,,,,,,,,,,,,,
+,I-197,1,,Inventario de suelo estratégico para consolidación urbana,,,,,,,,,,,,,,,,,,,,
+,I-198,1,,Escenario de crecimiento urbano bajo criterios de aptitud parcial de urbanización para el AMG hasta 2045,,,,,,,,,,,,,,,,,,,,
+,I-199,1,,Población del sector primario,,,,,,,,,,,,,,,,,,,,
+,I-200,1,,Población del sector secundario,,,,,,,,,,,,,,,,,,,,
+,I-201,1,,Población del sector terciario,,,,,,,,,,,,,,,,,,,,
+,I-202,1,,Aptitud del suelo urbanizado con método DPI con ponderación,,,,,,,,,,,,,,,,,,,,
+,I-203,1,,Aptitud del suelo urbanizado con método DPI sin ponderación,,,,,,,,,,,,,,,,,,,,
+,I-204,1,,Aptitud del suelo urbanizado con método MAXENT,,,,,,,,,,,,,,,,,,,,
+,I-205,1,,Aptitud del suelo urbanizado Método combinado DPI ponderado y MAXENT,,,,,,,,,,,,,,,,,,,,
+,I-206,1,,Restricción de urbanización en función a índice de naturalidad,,,,,,,,,,,,,,,,,,,,
+,I-207,1,,Clasificación de planteles,,,,,,,,,,,,,,,,,,,,
+,I-208,1,,Polígonos de protección ,,,,,,,,,,,,,,,,,,,,
+,I-209,1,,Integración funcional por lugar de trabajo,,,,,,,,,,,,,,,,,,,,
+,I-210,1,,Análisis de accesibilidad,,,,,,,,,,,,,,,,,,,,
+,I-211,1,,Distribución de población por localidad,,,,,,,,,,,,,,,,,,,,
+,I-212,1,,Nuevos sitios de taxi,,,,,,,,,,,,,,,,,,,,
+,I-213,1,,Polígonos de prueba piloto para el sistema de bicicletas sin anclaje.mxd,,,,,,,,,,,,,,,,,,,,
+,I-214,1,,Poblacion de 15 años y mas analfabeta,,,,,,,,,,,,,,,,,,,,
+,I-215,1,,Grado promedio de escolaridad,,,,,,,,,,,,,,,,,,,,
+,I-216,1,,Población con discapacidad por manzana,,,,,,,,,,,,,,,,,,,,
+,I-217,1,,Población con discapacidad por localidad,,,,,,,,,,,,,,,,,,,,
+,I-218,1,,Población que habla alguna lengua indígena y no habla español,,,,,,,,,,,,,,,,,,,,
+,I-219,1,,Vivienda en hacinamiento,,,,,,,,,,,,,,,,,,,,
+,I-220,1,,Instalación general de salud,,,,,,,,,,,,,,,,,,,,
+,I-221,1,, Ubicación de espacios recreativo y de esparcimiento,,,,,,,,,,,,,,,,,,,,
+,I-222,1,,Propuesta de zonificación para la implementación de un sistema de bicicletas sin anclaje,,,,,,,,,,,,,,,,,,,,
+,I-223,1,,Licencias de urbanización periodo junio 2016 septiembre 2017,,,,,,,,,,,,,,,,,,,,
+,I-224,1,,Porcentaje de población de habla indígena,,,,,,,,,,,,,,,,,,,,
+,I-225,1,,Integración funcional por lugar de residencia,,,,,,,,,,,,,,,,,,,,
+,I-226,1,,Plazas Públicas,,,,,,,,,,,,,,,,,,,,
+,I-227,1,,Planteles de profesional técnico por tipo,,,,,,,,,,,,,,,,,,,,
+,I-228,1,,Planteles de especial por tipo,,,,,,,,,,,,,,,,,,,,
+,I-229,1,,Sitios de Nuevo Desarrollo 1999-2010,,,,,,,,,,,,,,,,,,,,
+,I-230,1,,Proyectos Regionales,,,,,,,,,,,,,,,,,,,,
+,I-231,1,,"Análisis de Espacios Límitrofes, Capturados y Exteriores 2010",,,,,,,,,,,,,,,,,,,,
+,I-232,1,,Consumo Promedio de Energía Eléctrica MW en el 2014,,,,,,,,,,,,,,,,,,,,
+,I-233,1,,Corredores Económicos y Ejes de Desarrollo,,,,,,,,,,,,,,,,,,,,
+,I-234,1,,Porcentaje de población económicamente activa de cada municipio por sector,,,,,,,,,,,,,,,,,,,,
+,I-235,1,,Utilidad de urbanización en funcion del costo por pendiente,,,,,,,,,,,,,,,,,,,,
+,I-236,1,,Concentración de Actividades Económicas por Actividad Productiva,,,,,,,,,,,,,,,,,,,,
+,I-237,1,,Area de Servicio de Universidades,,,,,,,,,,,,,,,,,,,,
+,I-238,1,,Bachillerato. Propuesta de Polígonos Tonalá 2015-2018,,,,,,,,,,,,,,,,,,,,
+,I-239,1,,Consolidación Urbana Suburbana y Rural 2015,,,,,,,,,,,,,,,,,,,,
+,I-240,1,,Indice de Transformación Antropica 2015,,,,,,,,,,,,,,,,,,,,
+,I-241,1,,Uso del suelo 2015,,,,,,,,,,,,,,,,,,,,
+,I-242,1,,Límites Agrarios,,,,,,,,,,,,,,,,,,,,
+,I-243,1,,Aptitud de Urbanización,,,,,,,,,,,,,,,,,,,,
+,I-244,1,,Accesibilidad de Servicios Medicos de Urgencias Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-245,1,,Accesibilidad de Servicios Medicos de Urgencias ArtIculados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-246,1,,Accesibilidad de Servicios de Clinicas Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-247,1,,Accesibilidad de Servicios de Clinicas Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-248,1,,Accesibilidad de Servicios de Educacion Secundaria Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-249,1,,Accesibilidad de Servicios Eduación Secundaria Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-250,1,,Accesibilidad de Servicios de Educacion Bachillerato Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-251,1,,Accesibilidad de Servicios Educación Bachillerato Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-252,1,,Accesibilidad de Servicios de Educacion Preescolar Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-253,1,,Accesibilidad de Servicios de Educación Preescolar Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-254,1,,Accesibilidad de Servicios de Educacion Primaria Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-255,1,,Accesibilidad de Servicios Educación Primaria Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-256,1,,Accesibilidad de Servicios de Supermercados Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-257,1,,Accesibilidad de Servicios de Abarrotes Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-258,1,,Accesibilidad de Servicios de Mercados Artuculados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-259,1,,Accesibilidad de Servicios de Minisupers Farmacias Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-260,1,,Accesibilidad de Servicios de Bancos ArtIculados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-261,1,,Accesibilidad de Servicios de Cajas Populares Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-262,1,,Accesibilidad de Servicios de Cajeros Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-263,1,,Accesibilidad de Servicios de Unidades Deportivas Articulados por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-264,1,,Accesibilidad de Servicios Supermercados Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-265,1,,Accesibilidad de Servicios Abarrotes Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-266,1,,Accesibilidad de Servicios Mercados Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-267,1,,Accesibilidad de Servicios Minisuper y Farmacias Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-268,1,,Accesibilidad de Servicios Bancos Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-269,1,,Accesibilidad de Servicios Cajas Populares Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-270,1,,Accesibilidad de Servicios Cajeros Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-271,1,,Accesibilidad de Servicios Unidades Deportivas Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-272,1,,Plan de Ordenamiento Territorial 1982,,,,,,,,,,,,,,,,,,,,
+,I-273,1,,Viviendas con acceso a internet,,,,,,,,,,,,,,,,,,,,
+,I-274,1,,Vialidades para el transporte de carga,,,,,,,,,,,,,,,,,,,,
+,I-275,1,,ARM-BE-014 - Almacenamiento sustancias peligrosas (Estaciones de servicio),,,,,,,,,,,,,,,,,,,,
+,I-276,1,,ARM-BE-013 - Líneas de conducción de gas y combustible,,,,,,,,,,,,,,,,,,,,
+,I-277,1,,Red de servicio ,,,,,,,,,,,,,,,,,,,,
+,I-278,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios de Salud-Urgencias,,,,,,,,,,,,,,,,,,,,
+,I-279,1,,Factores Antropicos Adversos,,,,,,,,,,,,,,,,,,,,
+,I-280,1,,Valor Ecosistémico,,,,,,,,,,,,,,,,,,,,
+,I-281,1,,Capacidad de Carga por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-282,1,,Accesibilidad de Servicios de servicios recreativos por Vialidades Principales,,,,,,,,,,,,,,,,,,,,
+,I-283,1,,Accesibilidad de Servicios Servicios Recreativos Articulados por Transporte Público,,,,,,,,,,,,,,,,,,,,
+,I-284,1,,Densidad de nodos por vialidad en el AMG,,,,,,,,,,,,,,,,,,,,
+,I-285,1,,Áreas de Servicio por Red Vial,,,,,,,,,,,,,,,,,,,,
+,I-286,1,,Utilidad de urbanización en funcion de distancia a riesgos antropicos,,,,,,,,,,,,,,,,,,,,
+,I-287,1,,R-2042- COBERTURA 20 JUNIO 2017 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-288,1,,R-2042- COBERTURA - 24 JULIO 2017,,,,,,,,,,,,,,,,,,,,
+,I-289,1,,R-2042- COBERTURA 5 SEPTIEMBRE 2017 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-290,1,,R-2042- COBERTURA 09 DE OCTUBRE 2017 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-291,1,,R-2042- COBERTURA 16 DE NOVIEMBRE 2017 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-292,1,,R-2042- COBERTURA 12 DE FEBRERO 2018 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-293,1,,R-2042- COBERTURA 08 DE MAYO 2018 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-294,1,,R-2042- COBERTURA JULIO 2018 _JIOS,,,,,,,,,,,,,,,,,,,,
+,I-295,1,,DISTRIBUCIÓN DE COBERTURA VEGETAL CLASIFICACIÓN SAVI,,,,,,,,,,,,,,,,,,,,
+,I-296,1,,NDVI CERRO VIEJO,,,,,,,,,,,,,,,,,,,,
+,I-297,1,,Análisis de Cobertura equipamiento en centralidades emergentes,,,,,,,,,,,,,,,,,,,,
+,I-298,1,,Caminos Sacacosechas,,,,,,,,,,,,,,,,,,,,
+,I-299,1,,Infraestructura de carga y polos de atracción,,,,,,,,,,,,,,,,,,,,
+,I-300,1,,Cobertura móvil  2G ,,,,,,,,,,,,,,,,,,,,
+,I-301,1,,Cobertura móvil 4G,,,,,,,,,,,,,,,,,,,,
+,I-302,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios de Clinicas y Consultorios,,,,,,,,,,,,,,,,,,,,
+,I-303,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Educativos Secundaria,,,,,,,,,,,,,,,,,,,,
+,I-304,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Educativos bachillerato,,,,,,,,,,,,,,,,,,,,
+,I-305,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Educativos preescolar,,,,,,,,,,,,,,,,,,,,
+,I-306,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Educativos primaria,,,,,,,,,,,,,,,,,,,,
+,I-307,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Supermercados,,,,,,,,,,,,,,,,,,,,
+,I-308,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Abarrotes,,,,,,,,,,,,,,,,,,,,
+,I-309,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Mercados,,,,,,,,,,,,,,,,,,,,
+,I-310,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Minisupers y Farmacias,,,,,,,,,,,,,,,,,,,,
+,I-311,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Bancos,,,,,,,,,,,,,,,,,,,,
+,I-312,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios Cajas Populares,,,,,,,,,,,,,,,,,,,,
+,I-313,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios cajeros,,,,,,,,,,,,,,,,,,,,
+,I-314,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios unidades deportivas,,,,,,,,,,,,,,,,,,,,
+,I-315,1,,Analisis de Suficiencia y Deficiencia de Suministros de Servicios servicios recreativos,,,,,,,,,,,,,,,,,,,,
+,I-316,1,,Valores Catastrales AMG 2018,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-317,1,,Uso de suelo general y àreas  naturales protegidas,,,,,,,,,,,,,,,,,,,,
+,I-318,1,,Preescolar por tipo,,,,,,,,,,,,,,,,,,,,
+,I-319,1,,Tiendas de abarrotes,,,,,,,,,,,,,,,,,,,,
+,I-320,1,,Mercados,,,,,,,,,,,,,,,,,,,,
+,I-321,1,,Super mercados,,,,,,,,,,,,,,,,,,,,
+,I-322,1,,Utilidad del territorio para la urbanización,,,,,,,,,,,,,,,,,,,,
+,I-323,1,,Estimación del nivel de ingreso relativo al promedio estimado a nivel de AGEB,,,,,,,,,,,,,,,,,,,,
+,I-324,1,,Zonas de atracción para empresas inmobiliarias,,,,,,,,,,,,,,,,,,,,
+,I-325,1,,Zonas de coincidencia y conflictos para el sector vivienda e interes del sector de empresas inmobiliaria,,,,,,,,,,,,,,,,,,,,
+,I-326,1,,Población No Residente Empleados,,,,,,,,,,,,,,,,,,,,
+,I-327,1,,Acumulación de ISS,,,,,,,,,,,,,,,,,,,,
+,I-328,1,,Deficiencias de servicios Acumulados,,,,,,,,,,,,,,,,,,,,
+,I-329,1,,Discontinuidad de los nuevos desarrollos urbanos 1999 2015,,,,,,,,,,,,,,,,,,,,
+,I-330,1,,Sismos,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,1,1,,Se obtuvo el catálogo de los epicentros registrados en el servicio sismológico nacional.,"Catálogo de los sismos registrados por el servicio sismológico nacional
+
+
+
+","Servicio Sismológico nacional
+Atlas de riesgos de los municipios del amg",pública,,,,,
+10-Feb-2019,I-330,2,,Sismos,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,Se obtuvo el catálogo de los epicentros registrados en el servicio sismológico nacional.,"Catálogo de los sismos registrados por el servicio sismológico nacional
+
+
+
+","Servicio Sismológico nacional
+Atlas de riesgos de los municipios del amg",pública,,,,,
+,I-331,1,,Rutas operando 2014 y publicadas PGT 2016 Troncal T05 López Mateos,,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-332,1,,Contrapropuesta SETRAN Troncal 05  López Mateos,,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-333,1,,"Rutas operando y publicadas (PGTJAL) corredor troncal 03 “Belisario Domínguez""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-334,1,,"Contrapropuestas 1 y 2 (SETRAN) corredor Troncal 04 ""Lázaro Cárdenas""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-335,1,,"CONTRAPROPUESTA 3 (SETRAN) CORREDOR TRONCAL 04 ""LÁZARO CÁRDENAS""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-336,1,,Rutas operando en el corredor de la Troncal 13,,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-337,1,,"Contrapropuesta del corredor Troncal 13 ""Solidaridad""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-338,1,,"Rutas del Programa General de Transporte Corredor T13 ""Solidaridad""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-339,1,,HUNDIMIENTOS SIAPA 2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES  DE PUNTOS,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,
+,I-340,1,,HUNDIMIENTOS AMG,,,,,,,,,,,,,,,,,,,,
+,I-341,1,,INUNDACIONES SIAPA,,,,,,,,,,,,,,,,,,,,
+,I-342,1,,CONTAMINACIÓN DE AGUA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,1,1,,"REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS, LINEAS Y POLIGONOS",,CONAGUA 2015 Y MUNICIPIOS FUERA DE LA ADMINISTRACIÓN DE SIAPA 2016,,,,,,
+,I-342,2,Atlas de Riesgos,CONTAMINACIÓN DE AGUA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,"REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS, LINEAS Y POLIGONOS",,CONAGUA 2015 Y MUNICIPIOS FUERA DE LA ADMINISTRACIÓN DE SIAPA 2016,,,,,,#df6868
+,I-342,3,Atlas de Riesgos,CONTAMINACIÓN DE AGUA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,"REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS, LINEAS Y POLIGONOS",,CONAGUA 2015 Y MUNICIPIOS FUERA DE LA ADMINISTRACIÓN DE SIAPA 2016,,https://drive.google.com/open?id=1nWsKnKX2SRRqpin7-pTNz1TWkzwWrFij,1nWsKnKX2SRRqpin7-pTNz1TWkzwWrFij,,,#df6868
+,I-343,1,,CONTAMINACIÓN DE AIRE,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,"LADRILERAS SAN PEDRO TLAQUEPAQUE, BANCOS DE MATERIAL IIEG Y DENUE 2018",,,,,,
+,I-343,2,Atlas de Riesgos,CONTAMINACIÓN DE AIRE,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,"LADRILERAS SAN PEDRO TLAQUEPAQUE, BANCOS DE MATERIAL IIEG Y DENUE 2018",,,,,,#df6868
+,I-344,1,,CONTAMINACIÓN DE SUELO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,UBICACIÓN DE SISTIOS DE DISPOSICIÓN FINAL DE RESIDUOS DE LA SEMADET Y PLANES PARCIALES DE DESARROLLO URBANO DE GUADALAJARA,,,,,,
+,I-344,2,Atlas de Riesgos,CONTAMINACIÓN DE SUELO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,UBICACIÓN DE SISTIOS DE DISPOSICIÓN FINAL DE RESIDUOS DE LA SEMADET Y PLANES PARCIALES DE DESARROLLO URBANO DE GUADALAJARA,,,,,,#df6868
+,I-344,3,Atlas de Riesgos,CONTAMINACIÓN DE SUELO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,UBICACIÓN DE SISTIOS DE DISPOSICIÓN FINAL DE RESIDUOS DE LA SEMADET Y PLANES PARCIALES DE DESARROLLO URBANO DE GUADALAJARA,,https://drive.google.com/open?id=1OmLMeTJ2RF83fQ9z8GIYMQ_cWobR5idQ,1OmLMeTJ2RF83fQ9z8GIYMQ_cWobR5idQ,,,#df6868
+,I-345,1,,PLAGAS,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,"NOTAS PERIODISTICAS DEL INOFRMADOR, 2019; SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN 2017-2018",,,,,,
+,I-345,2,Atlas de Riesgos,PLAGAS,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,"NOTAS PERIODISTICAS DEL INOFRMADOR, 2019; SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN 2017-2018",,,,,,#df6868
+,I-345,3,Atlas de Riesgos,PLAGAS,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE  VECTORES DE PUNTOS Y POLIGONOS,,"NOTAS PERIODISTICAS DEL INOFRMADOR, 2019; SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN 2017-2018",,https://drive.google.com/open?id=1CKXjTQ1XClSAcV6nkicseQi2ieYeD4pS,1CKXjTQ1XClSAcV6nkicseQi2ieYeD4pS,,,#df6868
+,I-346,1,,EPIDEMIAS,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE GRAFICA DE BARRAS,,BOLETIN EPIDEMIOLOGICO DE LA SECRETARIA DE SALUD JALISCO,,,,,,
+,I-346,2,Atlas de Riesgos,EPIDEMIAS,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE GRAFICA DE BARRAS,,BOLETIN EPIDEMIOLOGICO DE LA SECRETARIA DE SALUD JALISCO,,,,,,#df6868
+,I-347,1,,ACCIDENTES DE TRANSPORTE,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS,,"ATLAS DE RIESGOS DE ZAPOTLANEJO, ZAPOPAN, ESTADO Y ACC ANUAL 2013",,,,,,
+,I-347,2,Atlas de Riesgos,ACCIDENTES DE TRANSPORTE,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS,,"ATLAS DE RIESGOS DE ZAPOTLANEJO, ZAPOPAN, ESTADO, SETRAN 2014-2018, VIMOZmetro 2019",,,,,,#df6868
+,I-347,3,Atlas de Riesgos,ACCIDENTES DE TRANSPORTE,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS,,"ATLAS DE RIESGOS DE ZAPOTLANEJO, ZAPOPAN, ESTADO, SETRAN 2014-2018, VIMOZmetro 2019",,https://drive.google.com/open?id=1EN_I5dAaWe94yxpjjFZEplALJIUN_OjS,1EN_I5dAaWe94yxpjjFZEplALJIUN_OjS,,,#df6868
+,I-348,1,,INTERRUPCIÓN Y AFECTACIÓN DE SERVICIOS BÁSICOS E INFRAESTRUCTURA ESTRATEGICA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,"NOTICIAS DE SIAPA 2016, NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN",,,,,,
+,I-348,2,Atlas de Riesgos,INTERRUPCIÓN Y AFECTACIÓN DE SERVICIOS BÁSICOS E INFRAESTRUCTURA ESTRATEGICA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,"NOTICIAS DE SIAPA 2016, NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN",,,,,,#df6868
+,I-348,3,Atlas de Riesgos,INTERRUPCIÓN Y AFECTACIÓN DE SERVICIOS BÁSICOS O INFRAESTRUCTURA ESTRATEGICA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,"NOTICIAS DE SIAPA 2016, NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB DE GUADALAJARA Y ZAPOPAN",,https://drive.google.com/open?id=12WB3Xls7HLNjkul_J-_oy5vZsur4Aq76,12WB3Xls7HLNjkul_J-_oy5vZsur4Aq76,,,#df6868
+,I-349,1,,CONCENTRACIÓN MASIVA DE POBLACIÓN,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,ATLAS DE RIESGOS DE ZAPOTLANEJO Y ESTADO Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,,,,,
+,I-349,2,Atlas de Riesgos,CONCENTRACIÓN MASIVA DE POBLACIÓN,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,ATLAS DE RIESGOS DE ZAPOTLANEJO Y ESTADO Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,,,,,#df6868
+,I-349,3,Atlas de Riesgos,CONCENTRACIÓN MASIVA DE POBLACIÓN,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,ATLAS DE RIESGOS DE ZAPOTLANEJO Y ESTADO Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,https://drive.google.com/open?id=1bV8YTvqUMfJ6c6kPks5Bdm359M5Thqaa,1bV8YTvqUMfJ6c6kPks5Bdm359M5Thqaa,,,#df6868
+,I-350,1,,DEMOSTRACIONES DE INCONFORMIDAD SOCIAL,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,1,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,,,,,
+,I-350,2,Atlas de Riesgos,DEMOSTRACIONES DE INCONFORMIDAD SOCIAL,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,,,,,#df6868
+,I-350,3,Atlas de Riesgos,DEMOSTRACIONES DE INCONFORMIDAD SOCIAL,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y LINEAS,,NOTICIAS DEL INFORMADOR 2017-2018 Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN,,https://drive.google.com/open?id=1SMY26XxHkFGyXU6IODg-4R9mBGPVyTv3,1SMY26XxHkFGyXU6IODg-4R9mBGPVyTv3,,,#df6868
+,I-351,1,,VANDALISMO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,2,1,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,ATLAS DE RIESGOS ESTATAL Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN Y GUADALAJARA,,,,,,
+,I-351,2,Atlas de Riesgos,VANDALISMO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,ATLAS DE RIESGOS ESTATAL Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN Y GUADALAJARA,,,,,,#df6868
+,I-351,3,Atlas de Riesgos,VANDALISMO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVES DE VECTORES DE PUNTOS Y POLIGONOS,,ATLAS DE RIESGOS ESTATAL Y SERVICIOS ATENDIDOS POR PCYB ZAPOPAN Y GUADALAJARA,,https://drive.google.com/open?id=1DNP0wXmqCtXoENYx8NGT-XHiK6R_u18a,1DNP0wXmqCtXoENYx8NGT-XHiK6R_u18a,,,#df6868
+,I-352,1,,"Rutas del Programa General de Transporte Corredor T08 ""Américas""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-353,1,,"Rutas operando en el  Corredor T08 ""Américas""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-354,1,,Análisis Fotogramétrico del Crecimiento Urbano en el Corredor de El Verde,,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-355,1,,"Rutas operando en el Corredor Troncal T19 ""Peribús""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-356,1,,"INFRAESTRUCTURA Y ZONAS
+PARA EL TRANSPORTE DE CARGA
+EN EL MUNICIPIO DE ZAPOTLANEJO",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,"REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES, POLÍGONOS Y PUNTOS.",,Coordinación de Proyectos Estratégicos del municipio de Zapotlanejo,,,,,,#f7c917
+,I-357,1,,"Rutas operando en el Corredor Troncal T19 ""Peribús""",,(GTM) Gerencia Técnica de Movilidad.,,,IVT,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"Levantamiento de rutas de transporte público, 2014, imtj.
+interpretación de las propuestas del programa general de transporte del estado de jalisco, setran, 2019.
+contrapropuesta de la troncal 05, setran, 2019.",,,,,,#f7c917
+,I-358,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2018",,,,,,
+,I-359,1,,ACCIDENTES VIALES PEATONES 2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2018",,,,,,
+,I-360,1,,ACCIDENTES VIALES CICLISTAS 2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2018",,,,,,
+,I-361,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2017,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2017",,,,,,
+,I-362,1,,ACCIDENTES VIALES PEATONES 2017,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2017",,,,,,
+,I-363,1,,ACCIDENTES VIALES CICLISTAS 2017,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2017",,,,,,
+,I-364,1,,ACCIDENTES VIALES 2016,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2016",,,,,,
+,I-365,1,,ACCIDENTES VIALES PEATONES 2016,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2016",,,,,,
+,I-366,1,,ACCIDENTES VIALES CICLISTAS 2016,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2016",,,,,,
+,I-367,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2015,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2015",,,,,,
+,I-368,1,,ACCIDENTES VIALES PEATONES 2015,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2015",,,,,,
+,I-369,1,,ACCIDENTES VIALES CICLISTAS 2015,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2016",,,,,,
+,I-370,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2014,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014",,,,,,
+,I-371,1,,,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014",,,,,,
+,I-372,1,,,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014",,,,,,
+,I-373,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2014-2018 PROMEDIO,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-374,1,,ACCIDENTES VIALES  CORREDORES PRINCIPALES 2014-2018 SUMA,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-375,1,,ACCIDENTES VIALES PEATONES 2014-2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-376,1,,ACCIDENTES VIALES CICLISTAS 2014-2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-377,1,,ACCIDENTES VIALES DISCAPACITADOS 2014-2018,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,1,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-378,1,,COBERTURA DE DRENAJE 2018,,,,,,,,,,,,,,,,,,,,
+,I-379,1,,COBERTURA DE AGUA POTABLE 2018,,,,,,,,,,,,,,,,,,,,
+,I-380,1,,ANTIGUEDAD DE LA RED  DE AGUA POTABLE 2018,,,,,,,,,,,,,,,,,,,,
+,I-381,1,,ANTIGUEDAD DE LA RED  DE DRENAJE 2018,,,,,,,,,,,,,,,,,,,,
+,I-382,1,,RED DE COLECTORES SIAPA 2018,,,,,,,,,,,,,,,,,,,,
+,I-383,1,,"RED DE AGUA POTABLE SIAPA, 2018",,,,,,,,,,,,,,,,,,,,
+,I-384,1,,ZONAS DE INFLUENCIA DE PLANTAS DE TRATAMIENTO SIAPA 2018,,,,,,,,,,,,,,,,,,,,
+,I-385,1,,"Inundaciones SIAPA, 2018",,,,,,,,,,,,,,,,,,,,
+,I-386,1,,rango de inundaciones por centralidad,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,"SETRAN, 2014-2018",,,,,,
+,I-387,1,,Cartografía y curvas de nivel peribús (radio 800 mts),,(GTM) Gerencia Técnica de Movilidad.,,,,,,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,,,,,,,
+,I-388,1,,PREDIOS EN EL CORREDOR DE  PERIBÚS (RADIO 1KM),,(GTM) Gerencia Técnica de Movilidad.,,,,,,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,,,,,,,
+,I-389,1,,INVENTARIO DE PELIGROS  METRPOLITANO INUNDACIONES,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,PMR,,,,,,,,,,,,,,,#df6868
+,I-390,1,,RUTAS COMPLEMENTARIAS DEFINIDAS EL 10 DE MAYO 2019 Y RUTAS COMPLEMENTARIAS SIN DEFINIR (SETRANS),,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-391,1,,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro POR LA UPCyB DE SAN PEDRO TLAQUEPAQUE (CORTE 09/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-392,1,,propuesta de mapa base de transporte público en el area metropolitana de guadalajara 2019 - 2020,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-393,1,,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro POR LA UPCyB DE GUADALAJARA (CORTE 09/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-394,1,,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro POR LA UPCyB DE TONALÁ (CORTE 09/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,1,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG,,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,2,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 16/07/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,3,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 12/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,4,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 19/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,5,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 26/08/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,6,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 03/09/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,7,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 10/09/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-395,8,Atlas de Riesgos,EMERGENCIAS REGISTRADAS EN EL VIMOZmetro AMG (CORTE 17/09/2019),,(GTGIR)Gerencia Técnica de Gestión Integral del Riesgos.,,,,,,,,,,,,,,,,,,
+,I-396,1,,Mapa Base para la Cobertura del Transporte Público del Área Metropolitana de Guadalajara 2019-2020,,(GTM) Gerencia Técnica de Movilidad.,,,,,,1,,,,REPRESENTACIÓN CARTOGRÁFICA A TRAVÉS DE VECTORES LINEALES,,,,https://drive.google.com/open?id=1G7z9DKae_q_GUaabMh0rV_FFBolVH1Ka,1G7z9DKae_q_GUaabMh0rV_FFBolVH1Ka,,,
+,I-397,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. EL SALTO,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-398,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. GUADALAJARA,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-399,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. IXTLAHUACÁN DE LOS MEMBRILLOS,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-400,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. JUANACATLÁN,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-401,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. SAN PEDRO TLAQUEPAQUE,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-402,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. TLAJOMULCO DE ZÚÑIGA,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-403,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. TONALÁ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-404,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. ZAPOPAN,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-405,1,,MAPA BASE POR MUNICIPIO PARA LA COBERTURA DEL TRANSPORTE PÚBLICO 2019 - 2020. ZAPOTLANEJO,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-406,1,Atlas de Riesgos,"ESTADO DE LOS CAUCES, ANÁLISIS DE RIESGOS SANTA ANITA HILLS",,,,,,,,,,,,,,,,,,,,
+,I-407,1,Atlas de Riesgos,"PENDIENTE DEL TERRENO, ANÁLISIS DE RIESGOS SANTA ANITA HILLS",,,,,,,,,,,,,,,,,,,,
+,I-408,1,Atlas de Riesgos,PENDIENTE_DEL_TERRENO_POR MANZANA_ANÁLISIS_DE_RIESGOS_SANTA_ANITA_HILLS,,,,,,,,,,,,,,,,,,,,
+,I-409,1,Atlas de Riesgos,ESTADO DE LOS CAUCES ZONAS ALEDAÑAS ANÁLISIS DE RIESGOS SANTA ANITA HILLS,,,,,,,,,,,,,,,,,,,,
+,I-410,1,POTmet,"VIVIENDAS CON MAS DE 2.5 HABITANTES POR CUARTO 
+INEGI 2010",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,,,,,,,,,,,,,,#efde9d
+,I-411,1,POTmet,Histórico Licencias de urbanización período enero 2013 - julio 2019,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-411,2,POTmet,Histórico Licencias de urbanización período enero 2013 - dicembre 2019,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-412,1,POTmet,Tendencia por centralidad de licencias de urbanización,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-412,2,POTmet,LICENCIAS DE URBANIZACIÓN PERÍODO JULIO 2016 - DICIEMBRE 2019 SEGÚN CERCANÍA A CENTRALIDADES DE IMPULSO,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-413,1,POTmet,Licencias  de urbanización en relación al indice de demanda laboral externa,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Gúzman,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-414,1,POTmet,Licencias   de urbanización en relación al indice de suficiencia de servicios básicos,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Gúzman,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-415,1,POTmet,Licencias  urbanización en relación a las áreas de crecimiento,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Gúzman,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-416,1,POTmet,Licencias  urbanización en relación al criterio de compacidad ,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Gúzman,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-417,1,POTmet,Licencias de urbanización en relación al Sistema Verde,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,PRE,Diagnóstico,1,,,,1,,"INEGI,  POTmet, Portales de transparencia municipales",,https://drive.google.com/open?id=1MMk26x-jBNo4ZU_24C4UXh1iaNabZagH,1MMk26x-jBNo4ZU_24C4UXh1iaNabZagH,,,#efde9d
+,I-418,1,POTmet,Licencias  urbanización y reordenamiento de rutas,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-419,1,POTmet,Licencias  urbanización e integración del fraccionamiento,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-420,1,POTmet,Licencias emitidas en relación a las fuentes de abastecimiento de agua potable y drenaje.,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,PRE,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-421,1,,"SEMADET - CVR 
+Compatibilidad de uso de suelo para centros de verificación responsable (líneas gasolina)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-422,1,,"SEMADET - CVR 
+Compatibilidad de uso de suelo para centros de verificación responsable (líneas diesel)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-423,1,,"SEMADET - CVR 
+Disposición de vehículos",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,INEGI,,,,,,
+,I-424,1,,"SEMADET - CVR 
+Zonas prioritarias (líneas gasolina)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-425,1,,"SEMADET - CVR 
+Zonas prioritarias (líneas diesel)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-426,1,,"SEMADET - CVR 
+Unidades económicas relacionadas (líneas gasolina)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-427,1,,"SEMADET - CVR 
+Unidades económicas relacionadas (líneas diesel)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-428,1,,"SEMADET - CVR 
+Cantidad de vehículos de carga",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,Estudio Origen y Destino del Transporte de Bienes y Servicios que ingresa y sale por los 7 accesos carreteros del AMG 2018,,,,,,
+,I-429,1,,"SEMADET - CVR 
+Distribución por centralidad (líneas gasolina)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,1,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+,I-430,1,,"SEMADET - CVR 
+Distribución por centralidad (líneas diesel)",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,1,,,,,,"PPDU, Reglamentos de zonificación, INEGI",,,,,,
+19/08/2019,I-431,1,POTmet,"CLASIFICACIÓN DE ÁREAS DE CRECIMIENTO
+EN RELACIÓN A CRITERIOS DEL POTmet
+EL SALTO",Validado,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Ivan Hernández,POT,,Diagnóstico,1,,,,,,,,,,,,#efde9d
+,I-432,1,,ESCENARIO DE DISTRIBUCIÓN DE ÁREAS DE CRECIMIENTO URBANO EL SALTO,,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-433,1,,PLAN DE REGULACIÓN DE LÍMITES DE CIRCULACIÓN PARA LA PROTECCIÓN Y SEGURIDAD VÍAL PARA EL AMG,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-434,1,,RUTAS DE CARGA ALMEX,,(GTM) Gerencia Técnica de Movilidad.,,,,,,,,,,,,,,,,,,
+,I-435,1,,"DESFASE DEL ÁREA DE ANÁLISIS DE LA 
+ENCUESTA ORIGEN-DESTINO 2007",,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,,,,,,,,,,,,,,,,
+,I-436,1,POTmet,EXPEDIENTES QUE REFIEREN DERECHOS ADQUIRIDOS INGRESADOS EN CONSULTA PÚBLICA DEL POTMET ZONA BUGAMBILIAS - EL CIELO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Base,,,,,,,,,,,,,#efde9d
+,I-437,,POTmet,ESTIMACIÓN DE POBLACIÓN PRA BAJÍO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1egJ5WBF5RtYIzNDYzcq5Bst_-4wiQ2tB,1egJ5WBF5RtYIzNDYzcq5Bst_-4wiQ2tB,,,#efde9d
+,I-438,1,Atlas de Riesgos,SISTEMA DE MONITOREO HIDROLÓGICO AMG (PROPUESTA),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,,PMR,,Estrategia,,,,,,,,,,,,,#df6868
+,I-439,1,Atlas de Riesgos,INUNDACIONES - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1XSexue_LSsrPm0bAz_2dQlq2C83sVfBO,1XSexue_LSsrPm0bAz_2dQlq2C83sVfBO,,,#df6868
+,I-440,1,Atlas de Riesgos,ONDAS GÉLIDAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Ws_omG6pYYfbePyz_yrE9zXKacoDcZKq,1Ws_omG6pYYfbePyz_yrE9zXKacoDcZKq,,,#df6868
+,I-441,1,Atlas de Riesgos,ONDAS CÁLIDAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1WbH2SRCn8eP7QNxnaxSBFHJ8aOK5q_NY,1WbH2SRCn8eP7QNxnaxSBFHJ8aOK5q_NY,,,#df6868
+,I-442,1,Atlas de Riesgos,CICLÓN TROPICAL - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UQtr9CX1-FlhAcOouN3Kp0Dr-wc3XviB,1UQtr9CX1-FlhAcOouN3Kp0Dr-wc3XviB,,,#df6868
+,I-443,1,Atlas de Riesgos,HELADAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UQtr9CX1-FlhAcOouN3Kp0Dr-wc3XviB,1UQtr9CX1-FlhAcOouN3Kp0Dr-wc3XviB,,,#df6868
+,I-444,1,Atlas de Riesgos,TORMENTA DE GRANIZO - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1hX5K1kSvkBl2-KR8P3wmFU3npbIjpoM7,1hX5K1kSvkBl2-KR8P3wmFU3npbIjpoM7,,,#df6868
+,I-445,1,Atlas de Riesgos,TORMENTA DE NIEVE - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1mDRiN_tc9FnZqTAFTeOaGn_UXH07Ygb_,1mDRiN_tc9FnZqTAFTeOaGn_UXH07Ygb_,,,#df6868
+,I-446,1,Atlas de Riesgos,TORMENTA ELÉCTRICA - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ybW4KFk7Z8XYyB_gKxEw2nBTJwd2Ectl,1ybW4KFk7Z8XYyB_gKxEw2nBTJwd2Ectl,,,#df6868
+,I-447,1,Atlas de Riesgos,SEQUÍA - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1cxnPkPqpeDWiUrK-HvuBfMME3flQSYsd,1cxnPkPqpeDWiUrK-HvuBfMME3flQSYsd,,,#df6868
+,I-448,1,Atlas de Riesgos,ALMACENAMIENTO DE SUSTANCIAS PELIGROSAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Uug2-2u6l_JSSkNtQ1OkreOSLEULn-Ec,1Uug2-2u6l_JSSkNtQ1OkreOSLEULn-Ec,,,#df6868
+,I-449,1,Atlas de Riesgos,AUTOTRANSPORTE Y TRANSPORTE DE SUSTANCIAS PELIGROSAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1zkI2eF4V0UaG2-blzW-L8qWklShewrfK,1zkI2eF4V0UaG2-blzW-L8qWklShewrfK,,,#df6868
+,I-450,1,Atlas de Riesgos,TRANSPORTE POR DUCTOS DE SUSTANCIAS PELIGROSAS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1dUz196Cz-2lwUuiPEqQpGuxXApgT3F4v,1dUz196Cz-2lwUuiPEqQpGuxXApgT3F4v,,,#df6868
+,I-451,1,Atlas de Riesgos,INCENDIOS URBANOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gg-6GvQwBaHQET1VpEUyz_X5Yg4uYRZx,1gg-6GvQwBaHQET1VpEUyz_X5Yg4uYRZx,,,#df6868
+,I-452,1,Atlas de Riesgos,INCENDIOS FORESTALES - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1EmuEe4QO_Uy-aoAuOW9fY_t8scYaxzK3,1EmuEe4QO_Uy-aoAuOW9fY_t8scYaxzK3,,,#df6868
+,I-453,1,Atlas de Riesgos,ACCIDENTES DE TRANSPORTE IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,SETRAN 2014-2018,,,,,,#df6868
+,I-454,1,Atlas de Riesgos,CONTAMINACIÓN DE AGUA  IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,"CONAGUA, 2015",,,,,,#df6868
+,I-455,1,Atlas de Riesgos,EPIDEMIAS  IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,SECRETARIA DE SALUD,,,,,,#df6868
+,I-456,1,Atlas de Riesgos,CONCENTRACIÓN MASIVA DE POBLACIÓN IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-457,1,Atlas de Riesgos,CONTAMINACIÓN DE AIRE IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-458,1,Atlas de Riesgos,INUNDACIONES Y TORMENTA DE GRANIZO EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1TIOqid3iP92TzwRQoykF-Reo0nMlgCrt,1TIOqid3iP92TzwRQoykF-Reo0nMlgCrt,,,#df6868
+,I-459,1,Atlas de Riesgos,"SEQUÍA, ONDAS CÁLIDAS Y GÉLIDAS EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO",En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1xSQJE8pc5k65b7dE0rDOzW7dp6-UtiJR,1xSQJE8pc5k65b7dE0rDOzW7dp6-UtiJR,,,#df6868
+,I-460,1,Atlas de Riesgos,TIRADEROS PARA ESCOMBRO AUTORIZADOS POR SEMADET_PERIBUS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=126JHeOo7Bx6yyhAihHl65XDfu4Ltp-JY,126JHeOo7Bx6yyhAihHl65XDfu4Ltp-JY,,,#f7c917
+,I-461,1,Atlas de Riesgos,ALMACENAMIENTO Y TRANSPORTE POR DUCTOS DE SUSTANCIAS PELIGROSAS EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1F_gjd7zNConz5-BfD6zKF7vUeEDh0Jb-,1F_gjd7zNConz5-BfD6zKF7vUeEDh0Jb-,,,#df6868
+,I-462,1,Atlas de Riesgos,INCENDIOS URBANOS Y FORESTALES EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1WwuSDysCWBrQUVg3QqfEbHPJ-VnQQVt5,1WwuSDysCWBrQUVg3QqfEbHPJ-VnQQVt5,,,#df6868
+,I-463,1,Atlas de Riesgos,INUNDACIONES HISTÓRICAS_PERIBÚS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1vH4er_qvbjTpVuEBzAjyFFDV2V2b3OKE,1vH4er_qvbjTpVuEBzAjyFFDV2V2b3OKE,,,#f7c917
+,I-464,1,Atlas de Riesgos,COBERTURAS DE SUELO_PERIBÚS,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1xnQ86mFTbuUnGZ-_KUx_bupCfhPHJIIE,1xnQ86mFTbuUnGZ-_KUx_bupCfhPHJIIE,,,#f7c917
+,I-465,1,Atlas de Riesgos,COBERTURAS DE SUELO_PERIBÚS_SUELO IMPERMEABLE,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qzGA1TxIYjNVQBdXdw6RAg28TD-u6DGv,1qzGA1TxIYjNVQBdXdw6RAg28TD-u6DGv,,,#f7c917
+,I-466,1,Atlas de Riesgos,COBERTURAS DE SUELO_PERIBÚS_ARBOLADO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1f8w-RrUlQf7G-hI1w_Zew2WX8XxPhG8c,1f8w-RrUlQf7G-hI1w_Zew2WX8XxPhG8c,,,#f7c917
+13-Sep-2019,I-467,1,Atlas de Riesgos,HUNDIMIENTOS EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+13-Sep-2019,I-468,1,Atlas de Riesgos,INESTABILIDAD DE LADERAS EN IXTLAHUACÁN DE LOS MEMBRILLOS - INVENTARIO DE PELIGROS METROPOLITANO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+13/09/2019,I-469,1,POTmet,"CONGRUENCIA DE ÁREAS NATURALES PROTEGIDAS DECRETADAS RESPECTO A UGAS CON POLÍTICA DE PROTECCIÓN, POEL IXTLAHUACÁN DE LOS MEMBRILLOS.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,POT,Diagnóstico,,,,,,,"Decreto de Área Estatal de Protección Hidrológica el 18 de mayo del 2013 IV Cerro Viejo – Chupinaya - Los Sabinos y El Área Estatal de Protección Hidrológica Sierra Cóndiro - Canales y Cerro San Miguel – Chiquihuitillo, fue decretada el 1 de febrero de 2018 VII. ",,https://drive.google.com/open?id=1b3IxIA8HormrtnMCqjjCAYMl3aVzDQ7n,1b3IxIA8HormrtnMCqjjCAYMl3aVzDQ7n,,,#efde9d
+13/09/2019,I-470,1,POTmet,"CONCFLICTO DE LÍMITE MUNICIPAL RESPECTO AL LÍMITE 2012 IITEJ, POEL IXTLAHUACÁN DE LOS MEMBRILLOS.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Qbqq_ta5-rz2By0cioz_2xm_gFuiq5TP,1Qbqq_ta5-rz2By0cioz_2xm_gFuiq5TP,,,#efde9d
+13/09/2019,I-472,1,Atlas de Riesgos,VULCANISMO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,cuauhtémoc Aquiles,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+13/09/2020,I-473,1,Atlas de Riesgos,COBERTURAS DE SUELO_PERIBÚS_CUERPOS DE AGUA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Elena Guzmán Gutiérrez,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1r-1Tv6u_ErBoc3Nwgfqbh9EE9VjgwI1h,1r-1Tv6u_ErBoc3Nwgfqbh9EE9VjgwI1h,,,#f7c917
+13/09/2021,I-474,1,,VACANTE,,,,,,,,,,,,,,,,,,,,
+13/09/2022,I-475,1,,VACANTE,,,,,,,,,,,,,,,,,,,,
+13/09/2023,I-476,1,,VACANTE,,,,,,,,,,,,,,,,,,,,
+18-Feb-2020,I-477,1,POTmet,ZONIFICACIÓN PRIMARIA POTmet EN RELACIÓN A USO INDUSTRIAL POEL IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Ivan Hernández,POT,DIM,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1s7F2R52Izv3LFVjaNERFNTub2Odu4JYL/view?usp=sharing,,,,#efde9d
+18-Feb-2020,I-478,1,POTmet,"UGAS Y POLÍTICAS EN CONFLICTO CON EL ÁREA NATURAL DE PROTECCIÓN PROPUESTA EN POTmet, POEL IXTLAHUACÁN DE LOS MEMBRILLOS.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1plaNZWlgea58zw-qvb0-FU_5XPYm5_Jq,1plaNZWlgea58zw-qvb0-FU_5XPYm5_Jq,,,#efde9d
+18/09/2019,I-479,1,POTmet,PROPUESTA DE PUNTOS DE CONSULTA POEL IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=13m1IQC2o1_VAebZ677Pi2OdPJlKSDPD-,13m1IQC2o1_VAebZ677Pi2OdPJlKSDPD-,,,#efde9d
+18/09/2019,I-480,1,POTmet,UGAs CON CRITERIO Ur31 INCOMPATIBILIDAD CON RESERVAS URBANAS POEL IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pZ-X5Ykc0XEiSklPzOiQk1zOBug9C3PE,1pZ-X5Ykc0XEiSklPzOiQk1zOBug9C3PE,,,#efde9d
+18/09/2019,I-481,1,POTmet,UGAs CON CRITERIO Ur27 INCOMPATIBILIDAD CON NUEVOS DESARROLLOS INMOBILIARIOS POEL IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1oKnnuRrKmFzmf6rwFYicDKUPFJNZp12G,1oKnnuRrKmFzmf6rwFYicDKUPFJNZp12G,,,#efde9d
+20/09/2019,I-482,1,POTmet,"I-482 ÁREAS DE CRECIMIENTO SEGÚN POLÍTICA DE LA UGA
+POEL IXTLAHUACÁN DE LOS MEMBRILLOS",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1BiRQ11uBWBXZc_FMT8M820XD3j_PMyiq,1BiRQ11uBWBXZc_FMT8M820XD3j_PMyiq,,,#efde9d
+18/09/2019,I-483,1,POTmet,ZONAS DE ATENCIÓN PRIORITARÍA POEL IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1M9m7A68RVdniWwfH5hbJZc6cq02m21J9,1M9m7A68RVdniWwfH5hbJZc6cq02m21J9,,,#efde9d
+19/09/2019,I-484,1,POTmet,VIALIDADES CONTROLADAS PARA TRANSPORTE DE CARGA EN EL AMG,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas y Fernanda Sánchez ,POT,IVT,Base,,,,,,,,,,,,,#efde9d
+,I-485,1,POTmet,"MODIFICACIONES DE RUTAS DEL MAPA BASE
+",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas  ,POT,IVT,Base,,,,,,,,,,,,,#efde9d
+24/09/2019,I-486,1,POTmet,ZONAS PROPUESTAS PARA EL DISEÑO MUESTRAL DE LA ENCUESTA ORIGEN-DESTINO,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qktDrU-ItcPy7YqocV13qMzqoh6E5Gyo,1qktDrU-ItcPy7YqocV13qMzqoh6E5Gyo,,,#f7c917
+24/09/2019,I-487,1,POTmet,SITIOS PILOTO PARA REAGRUPAMIENTO PARCELARIO - PERIBÚS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1cVeIZn6vz34lI0ivYlDhXuBiakslfTrt,1cVeIZn6vz34lI0ivYlDhXuBiakslfTrt,,,#efde9d
+24/09/2019,I-488,1,POTmet,"CUENCAS DE SERVICIO IDENTIFICADAS , ZONAS CON FACTIBILIDAD PARA CUENCA DE SERVICIO Y SITIOS DE CONVERGENCIA DE RUTAS DE TRANSPORTE INFORMAL",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo y Ramiro López,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1dqiKJmOuHfecbiFTLYkSrIoouwf93G-Q,1dqiKJmOuHfecbiFTLYkSrIoouwf93G-Q,,,#f7c917
+24/09/2020,I-489,1,POTmet,"POTENCIAL DE CAPTACIÓN DE PLUSVALÍAS Y NEUS - PERIBUS
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=18fB21ZVNn7Q4BhYVNXMqJotNkKcJEcQK,18fB21ZVNn7Q4BhYVNXMqJotNkKcJEcQK,,,#efde9d
+24/09/2019,I-490,,POTmet,AUTORIZACIONES MUNICIPALES AFINES AL CRECIMIENTO URBANO EN EL BAJÍO,,,,,,,,,,,,,,,,,,,,
+25/09/2019,I-491,1,POTmet,MAPA BASE DEL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe, Alicia Guzmán",POT,,Base,,,,,,,,,https://drive.google.com/open?id=1cRpMONBKZ_uphX9A159wOgqlqWv2hgfq,1cRpMONBKZ_uphX9A159wOgqlqWv2hgfq,,,#efde9d
+25/09/2019,I-492,1,POTmet,MAPA BASE DEL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe, Alicia Guzman",POT,,Base,,,,,,,,,https://drive.google.com/open?id=1cTg4hB1mjkglQ1b0AzGPT-m5kgUdkYJU,1cTg4hB1mjkglQ1b0AzGPT-m5kgUdkYJU,,,#efde9d
+25/09/2019,I-493,1,POTmet,"MAPA DE LOCALIZACIÓN DE  SOLICITUDES DE TRANSPORTE PÚBLICO
+EN EL AMG",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas,IVT,,Base,,,,,,,,,,,,,#f7c917
+26/09/2019,I-494,1,POTmet,CRECIMIENTO DE LA HUELLA URBANA 1990 - 2019 MUNICIPIO EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1OOeHG0JrqO1AshgUlTssgTFxBsTpp5R8,1OOeHG0JrqO1AshgUlTssgTFxBsTpp5R8,,,#efde9d
+26/09/2019,I-495,1,POTmet,"COMPATIBILIDAD DEL CRECIMIENTO 2015-2019 RESPECTO A LA ZONIFICACIÓN PRIMARIA DEL POTmet MUNICIPIO EL SALTO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1onTf42kxqb4oRoswoGyBlK9rP4OlFREI,1onTf42kxqb4oRoswoGyBlK9rP4OlFREI,,,#efde9d
+26/09/2019,I-496,1,POTmet,"ALTERACIONES DE LA COBERTURA DE USO DE SUELO  2019 RESPECTO AL AÑO 2015 MUNICIPIO EL SALTO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1tWE2XRnVTwf7GjkR3f7VWpOvCYIgI0me,1tWE2XRnVTwf7GjkR3f7VWpOvCYIgI0me,,,#efde9d
+26/09/2019,I-497,1,POTmet,ANÁLISIS DE RIESGOS NATURALES MUNICIPIO EL SALTO Y SU ENTORNO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1945R981VKjWOLIgbqKWJ61-Nq-TPLMMh,1945R981VKjWOLIgbqKWJ61-Nq-TPLMMh,,,#efde9d
+26/09/2019,I-498,1,POTmet,"ANÁLISIS DE RIESGOS DE LA SALUD Y POBLACIÓN VULNERABLE MUNICIPIO EL SALTO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1KCYLB_UCteRw19EthXfs3-3VEwb7hOYt,1KCYLB_UCteRw19EthXfs3-3VEwb7hOYt,,,#efde9d
+26/09/2019,I-499,1,POTmet,SITIOS DE IMPORTANCIA ECOLÓGICA MUNICIPIO EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1d-p6NkOQ2W1mdCfI4GlSJ7Lt9Rg1aTiP,1d-p6NkOQ2W1mdCfI4GlSJ7Lt9Rg1aTiP,,,#efde9d
+26/09/2019,I-500,1,POTmet,SITIOS NATURALES EN AMENAZA O AFECTADOS MUNICIPIO EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1M990D58af5G_kYRDw9vvCjWCKLoco3I3,1M990D58af5G_kYRDw9vvCjWCKLoco3I3,,,#efde9d
+26/09/2019,I-501,1,POTmet,CONLICTOS ENTRE LÍMITES MUNICIPALES PARA EL MUNICIPIO EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=15VlZemiC_n7EXdLcwJkaJJAgbCZ0N5ap,15VlZemiC_n7EXdLcwJkaJJAgbCZ0N5ap,,,#efde9d
+26/09/2019,I-502,1,POTmet,SITIOS ROJOS DEL MUNICIPIO EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ByJVSZdJnfYMbWq7erh-m3TCoemajsSh,1ByJVSZdJnfYMbWq7erh-m3TCoemajsSh,,,#efde9d
+26/09/2019,I-503,1,POTmet,SELECCIÓN DE ANÁLISIS TERRITORIALES PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gqpy7PNM82j1m9kOBMcxXzdxxBB4YbDZ,1gqpy7PNM82j1m9kOBMcxXzdxxBB4YbDZ,,,#efde9d
+26/09/2019,I-504,1,POTmet,SELECCIÓN DE ANÁLISIS TERRITORIALES PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1OlzBM376ZyGEdDVacG1t21o46-u4w2ZM,1OlzBM376ZyGEdDVacG1t21o46-u4w2ZM,,,#efde9d
+27/09/2019,I-505,1,POTmet,CLASIFICACIÓN DE LA JERARQUIA VIAL PARA EL DISEÑO MUESTRAL DE LA ENCUESTA ORIGEN-DESTINO,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1_1w3HjCSHKyCy1f0J6NyfRfyq4qIDGrY,1_1w3HjCSHKyCy1f0J6NyfRfyq4qIDGrY,,,#f7c917
+30-Sep-2019,I-506,1,POTmet,TIPO DE ESTACIONAMIENTOS EN EL ÁREA METROPOLITANA DE GUADALAJARA (PREDIOS),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1IOoVa0TrUEr3TcnqBkoRYSwzlIUuqkAA,1IOoVa0TrUEr3TcnqBkoRYSwzlIUuqkAA,,,#f7c917
+30-Sep-2019,I-507,1,POTmet,TIPO DE ESTACIONAMIENTOS EN EL ÁREA METROPOLITANA DE GUADALAJARA (CENTROIDES),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1vORPutjZYJQ27y9WEXxI46vfenyb-4lW,1vORPutjZYJQ27y9WEXxI46vfenyb-4lW,,,#f7c917
+30-Sep-2019,I-508,1,POTmet,PORCENTAJE DE SUPERFICIE CUBIERTA POR ESTACIONAMIENTOS DE SUPERMERCADOS Y CENTROS COMERCIALES EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1PkVdm1KDJY7CMIh3AvwtJp8N6ojUHDK2,1PkVdm1KDJY7CMIh3AvwtJp8N6ojUHDK2,,,#f7c917
+30-Sep-2019,I-509,1,POTmet,PORCENTAJE DE SUPERFICIE CUBIERTA POR ESTACIONAMIENTOS DE ACCESO PÚBLICO EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14_86HMz9mxUDI0gpukRzuDm3zITKCBje,14_86HMz9mxUDI0gpukRzuDm3zITKCBje,,,#f7c917
+30-Sep-2019,I-510,1,POTmet,PORCENTAJE DE SUPERFICIE CUBIERTA POR ESTACIONAMIENTOS EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1JcZQNsz3LcceEH-ZzxpBkPH9v8VR8SjN,1JcZQNsz3LcceEH-ZzxpBkPH9v8VR8SjN,,,#f7c917
+30-Sep-2019,I-511,1,POTmet,PORCENTAJE DE SUPERFICIE CUBIERTA POR CENTROS COMERCIALES,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ZKRvKu90R76pcqMfhPvjEuRzQwDpFnRS,1ZKRvKu90R76pcqMfhPvjEuRzQwDpFnRS,,,#f7c917
+30-Sep-2019,I-512,1,POTmet,SUPERFICIE DE CENTROS COMERCIALES,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nGreyJf_5e4-31k6JQ72W-dNfRMpOdRW,1nGreyJf_5e4-31k6JQ72W-dNfRMpOdRW,,,#f7c917
+30-Sep-2019,I-513,1,POTmet,CANTIDAD DE UNIDADES ECONÓMICAS POR CENTRO COMERCIAL,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada / Christian Aguilar,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1fZa_i2YQJlpcm7h2cXzEjo3QnphWVsUE,1fZa_i2YQJlpcm7h2cXzEjo3QnphWVsUE,,,#f7c917
+30-Sep-2019,I-514,1,POTmet,TIANGUIS REGISTRADOS EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ym08oHD3Yf1KlvUYfTmCwPhMQFSPZx_f,1ym08oHD3Yf1KlvUYfTmCwPhMQFSPZx_f,,,#efde9d
+8-Nov-2019,I-514.1,1,POTmet,TIANGUIS EN EL MUNICIPIO DE EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DfwtipJqOJDdyFWViSJPQNju0eC_j9be,1DfwtipJqOJDdyFWViSJPQNju0eC_j9be,,,#efde9d
+8-Nov-2019,I-514.2,1,POTmet,TIANGUIS EN EL MUNICIPIO DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14yG-8Bl_yh-_Nqf-57i_Bg-YR33OIkCr,14yG-8Bl_yh-_Nqf-57i_Bg-YR33OIkCr,,,#efde9d
+8-Nov-2019,I-514.3,1,POTmet,TIANGUIS EN EL MUNICIPIO DE IXTLAHUACÁN DE LOS MEMBRILLOS,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Z88tepxSbTM7pHuMaUe1u_FIWplmEpN3,1Z88tepxSbTM7pHuMaUe1u_FIWplmEpN3,,,#efde9d
+8-Nov-2019,I-514.4,1,POTmet,TIANGUIS EN EL MUNICIPIO DE JUANACATLÁN,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qQTRlHMMXgaEcvP8S49odJINEcyfwjql,1qQTRlHMMXgaEcvP8S49odJINEcyfwjql,,,#efde9d
+8-Nov-2019,I-514.5,1,POTmet,TIANGUIS EN EL MUNICIPIO DE SAN PEDRO TLAQUEPAQUE,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1zpLpeA3xxvEo1yvXLJYfdAVh2dsu8lDC,1zpLpeA3xxvEo1yvXLJYfdAVh2dsu8lDC,,,#efde9d
+8-Nov-2019,I-514.6,1,POTmet,TIANGUIS EN EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1_dlLsymSAJrJQcXEk5Cq_5rwUh31U-gx,1_dlLsymSAJrJQcXEk5Cq_5rwUh31U-gx,,,#efde9d
+8-Nov-2019,I-514.7,1,POTmet,TIANGUIS EN EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gSPRlzCYMDCgkzyrvk48FuwY7VKrAtwA,1gSPRlzCYMDCgkzyrvk48FuwY7VKrAtwA,,,#efde9d
+8-Nov-2019,I-514.8,1,POTmet,TIANGUIS EN EL MUNICIPIO DE ZAPOPAN,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1BiWY1_BfL7DxBF4hYezpGn7v7b936DEg,1BiWY1_BfL7DxBF4hYezpGn7v7b936DEg,,,#efde9d
+8-Nov-2019,I-514.9,1,POTmet,TIANGUIS EN EL MUNICIPIO DE ZAPOTLANEJO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pZhPqJHmXQhslY31eNaswBo2v4AeLy--,1pZhPqJHmXQhslY31eNaswBo2v4AeLy--,,,#efde9d
+1-Oct-2019,I-515,1,POTmet,CONCENTRACIÓN DE ESTACIONAMIENTOS EN EL AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Rw_q7IzizyGpM4iif3e1zWPcsTY_lUuy,1Rw_q7IzizyGpM4iif3e1zWPcsTY_lUuy,,,#f7c917
+1-Oct-2019,I-516,1,POTmet,CONCENTRACIÓN DE ESTACIONAMIENTOS DE ACCESO PÚBLICO EN EL AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pLifi9LTjl7r0RG2l-Uk4RKasgrt3Kaj,1pLifi9LTjl7r0RG2l-Uk4RKasgrt3Kaj,,,#f7c917
+1-Oct-2019,I-517,1,POTmet,CONCENTRACIÓN DE ESTACIONAMIENTOS DE SUPERMERCADOS Y CENTROS COMERCIALES EN EL AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1jAWS_m7UNHNh7Tc0NAGOajQhV-Iqt4id,1jAWS_m7UNHNh7Tc0NAGOajQhV-Iqt4id,,,#f7c917
+1-Oct-2019,I-518,1,POTmet,CONCENTRACIÓN DE ESTACIONAMIENTOS DE CENTROS COMERCIALES EN EL AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1KeVSYsqdvKFPpvSw6s5G-y8RYh-rpdC7,1KeVSYsqdvKFPpvSw6s5G-y8RYh-rpdC7,,,#f7c917
+1-Oct-2019,I-519,1,POTmet,TRANSPORTE DE CARGA RESULTADOS ORIGEN AGEB EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gut2axA8rZFmQV9ac7IvjfH-f3UPMh1a,1gut2axA8rZFmQV9ac7IvjfH-f3UPMh1a,,,#f7c917
+1-Oct-2019,I-520,1,POTmet,TRANSPORTE DE CARGA RESULTADOS DESTINO AGEB EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=144dR2vI2RQk-YdZW5CyRQryLe1RZD1gH,144dR2vI2RQk-YdZW5CyRQryLe1RZD1gH,,,#f7c917
+1-Oct-2019,I-521,1,POTmet,TRANSPORTE DE CARGA RESULTADOS ORIGEN (SIN SUELO RUSTICO) AGEB EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1wZfph3_fG0WdZK0NAGE6avRZiETEyZQ6,1wZfph3_fG0WdZK0NAGE6avRZiETEyZQ6,,,#f7c917
+1-Oct-2019,I-522,1,POTmet,TRANSPORTE DE CARGA RESULTADOS DESTINO (SIN SUELO RUSTICO) AGEB EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DVr9eQa07IkOo3Pt7NGaKm-oWETaVs6s,1DVr9eQa07IkOo3Pt7NGaKm-oWETaVs6s,,,#f7c917
+1-Oct-2019,I-523,1,POTmet,TRANSPORTE DE CARGA UNIDADES ECONOMICAS RELACIONADAS AGEB EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=15PVixvSRALNELOQ4ejTS0O-_dqMUgfK1,15PVixvSRALNELOQ4ejTS0O-_dqMUgfK1,,,#f7c917
+1-Oct-2019,I-524,1,POTmet,TRANSPORTE DE CARGA SITUACION ACTUAL EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1P-qG7U-KsEHNwJnIWabizLFMEnjiXGaB,1P-qG7U-KsEHNwJnIWabizLFMEnjiXGaB,,,#f7c917
+2-Oct-2019,I-525,1,POTmet,REVISIÓN AREAS POTMET VS POEL ZAPOTLANEJO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Fernando Orozco, Martín García",PRE,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1mEDaeFiMqONpCQo2t5EGJjm609R91R7N,1mEDaeFiMqONpCQo2t5EGJjm609R91R7N,,,#73b673
+2-Oct-2019,I-526,1,POTmet,REVISIÓN PERIMETROS POTMET VS POEL ZAPOTLANEJO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Fernando Orozco, Martín García",PRE,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1M7fRU2-CIedWh7H4qcqo3YhdLbw5KX2n,1M7fRU2-CIedWh7H4qcqo3YhdLbw5KX2n,,,#73b673
+2-Oct-2019,I-527,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADORES AMG,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1L8mVBGCAaRjsLsIoWTIoKfQqr9m14YXs,1L8mVBGCAaRjsLsIoWTIoKfQqr9m14YXs,,,#f7c917
+2-Oct-2019,I-528,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 1,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1XvI4GuH32ZjLBEHzTtdsESbH5gXYaUrP,1XvI4GuH32ZjLBEHzTtdsESbH5gXYaUrP,,,#f7c917
+2-Oct-2019,I-529,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 2,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gw6S9uOObDN-OaygFin4Bi90EtLvEZg1,1gw6S9uOObDN-OaygFin4Bi90EtLvEZg1,,,#f7c917
+2-Oct-2019,I-530,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 3,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19fTg0DbDsWf_Fqe4_oj_odlX8a-hevVn,19fTg0DbDsWf_Fqe4_oj_odlX8a-hevVn,,,#f7c917
+2-Oct-2019,I-531,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 4,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1SdJ6qK9e-kQrSVlPuyCSc_6FZYwIFchS,1SdJ6qK9e-kQrSVlPuyCSc_6FZYwIFchS,,,#f7c917
+2-Oct-2019,I-532,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 5,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1zvFempq0E4JYNbAd2ZVrM0HCaFetlR9a,1zvFempq0E4JYNbAd2ZVrM0HCaFetlR9a,,,#f7c917
+2-Oct-2019,I-533,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 6,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UEe6A0egeKuZy6q9K-RTAgLsAIDkzOn_,1UEe6A0egeKuZy6q9K-RTAgLsAIDkzOn_,,,#f7c917
+2-Oct-2019,I-534,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PARADOR 7,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UF20-iwQcmAdiiPkeyEGZFW8j08U0pIh,1UF20-iwQcmAdiiPkeyEGZFW8j08U0pIh,,,#f7c917
+2-Oct-2019,I-535,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PREDIOS IJALVI ZAPOTLANEJO,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ig7KMUJFsLahGFgG25WPYSV_az_lIKMC,1ig7KMUJFsLahGFgG25WPYSV_az_lIKMC,,,#f7c917
+2-Oct-2019,I-536,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PREDIOS IJALVI TLAJOMULCO DE ZUÑIGA 1,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=15kVgtelnguQtDapULT5Nfi2Zkce8TwDa,15kVgtelnguQtDapULT5Nfi2Zkce8TwDa,,,#f7c917
+2-Oct-2019,I-537,1,POTmet,CONDICIONANTES DE UBICACION TRANSPORTE DE CARGA PREDIOS IJALVI TLAJOMULCO DE ZUÑIGA 2,En proceso,(GTM) Gerencia Técnica de Movilidad.,,"Alberto Diaz, Christian Aguilar",IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=17tSA-NY0_kbWY_rn4AXohBhgfsnEsDAR,17tSA-NY0_kbWY_rn4AXohBhgfsnEsDAR,,,#f7c917
+2-Oct-2019,I-538,1,,HUNDIMIENTOS,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,,,Diagnóstico,,,,,,,,,,,,,
+2-Oct-2019,I-538,2,,HUNDIMIENTOS,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,,,Diagnóstico,,,,,,,,,,,,,
+2-Oct-2019,I-539,1,,INESTABILIDAD DE LADERAS,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,,,Diagnóstico,,,,,,,,,,,,,
+2-Oct-2019,I-539,2,,INESTABILIDAD DE LADERAS,,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,,,Diagnóstico,,,,,,,,,,,,,
+10-Mar-2019,I-540,1,POTmet,LOCALIZACIÓN DE LOS ASENTAMIENTOS IRREGULARES EN ANILLOS A CADA 5KM SOBRE LA RED VIAL - TECHO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nWeqaqAm9C9ZJzPr0ACJwU7AlKKlFtJk,1nWeqaqAm9C9ZJzPr0ACJwU7AlKKlFtJk,,,#efde9d
+10-Mar-2019,I-541,1,POTmet,ASENTAMIENTOS IRREGULARES Y SU RELACIÓN A LA ESTRATEGIA DE PERÍMETROS DE CRECIMIENTO POTMET -TECHO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,SRT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1q09Xpv_p0mk4Wmqw9x3mqqMsRZMvjzZ4,1q09Xpv_p0mk4Wmqw9x3mqqMsRZMvjzZ4,,,#be906d
+,I-542,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+,I-543,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+,I-544,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+,I-545,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+10-Apr-2019,I-546,1,POTmet,ANÁLISIS DE CORREDOR BIOLÓGICO PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gFHHDDTv7XqhV194A6sLrQaYVhPDvi5j,1gFHHDDTv7XqhV194A6sLrQaYVhPDvi5j,,,#efde9d
+,I-547,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+11-Apr-2019,I-548,1,POTmet,ANÁLISIS DE LA MICROCUENCA DE CAJITITLÁN PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,,,,Martín García,POT,GIA,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1hqWCDYEWqyakgVtKB1Njj5DcyKI9l52f,1hqWCDYEWqyakgVtKB1Njj5DcyKI9l52f,,,#efde9d
+10-Aug-2019,I-549.1,1,POTmet,ANÁLISIS DE LAS UNIDADES ECONÓMICAS (DENUE) PERÍODO 2010 - 2015 PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1v6tXL47kilN1d3uCCDRZKERcXVa9PIlX,1v6tXL47kilN1d3uCCDRZKERcXVa9PIlX,,,#efde9d
+,I-549.2,1,POTmet,ANÁLISIS DE LAS UNIDADES ECONÓMICAS (DENUE) PERÍODO 2015 - 2019 PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MQkMc3pbfcxF-XYaO1bpqlCnSRTLnUC7,1MQkMc3pbfcxF-XYaO1bpqlCnSRTLnUC7,,,#efde9d
+,I-549.3,1,POTmet,ANÁLISIS DEL PERSONAL OCUPADO (DENUE) PERÍODO 2010 - 2015 PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1FmMUNg9YPa-no9ZvLkW8qqP0ntXVuYI_,1FmMUNg9YPa-no9ZvLkW8qqP0ntXVuYI_,,,#efde9d
+,I-549.4,1,POTmet,ANÁLISIS DEL PERSONAL OCUPADO (DENUE) PERÍODO 2015 - 2019 PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1IDeZfLW3BsKLRZEs8IiOgmcpEvZO9nLY,1IDeZfLW3BsKLRZEs8IiOgmcpEvZO9nLY,,,#efde9d
+10-Oct-2019,I-549.5,1,POTmet,ANÁLISIS DEL CERRO EL TAJO Y SU RIESGO EN RELACIÓN A LA MICROCUENCA SAN SEBASTIAN EN EL MUNICIPIO TLAJOMULCO DE ZUÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1r8y9FyD8UUPz2xLQZg3Bi3woRK2TEe-U,1r8y9FyD8UUPz2xLQZg3Bi3woRK2TEe-U,,,#efde9d
+10-Oct-2019,I-549.6,1,POTmet,ANÁLISIS DE CRECIMIENTO URBANO 2015-2019 FUERA DEL PERÍMETRO DE CRECIMIENTO URBANO POTmet EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1BxYWf3VInoZmjK_mUkq0MFc3PuJZq6Cz,1BxYWf3VInoZmjK_mUkq0MFc3PuJZq6Cz,,,#efde9d
+11-Oct-2019,I-549.7,1,POTmet,"COBERTURA MAPA BASE DE TRANSPORE PÚBLICO 2019 - 2020 
+TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Victoria Estrada, Christian Aguilar",IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qiiR-gBgMTpAoP1hnQRZShfvmARezKBR,1qiiR-gBgMTpAoP1hnQRZShfvmARezKBR,,,#f7c917
+11-Apr-2019,I - 549.8,1,Atlas de Riesgos,ANÁLISIS FENOMENOS NATURALESPARA EL MUNICIPIO DE TLAJOMULCO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,"Ana Cecilia Perales, Juan Pablo Jiménez",,,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/17XLtEsc9Qf5tVX4_dbq_wthdzsMBxOey/view?usp=sharing,,,,
+7-Oct-2019,I-549.9,1,Atlas de Riesgos,ANÁLISIS FENOMENOS ANTRÒPICOS PARA EL MUNICIPIO DE TLAJOMULCO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,"Ana Cecilia Perales, Juan Pablo Jiménez",,,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1inHUP8HpjFTNuHtexs-aMNTph9aPfPjZ/view?usp=sharing,,,,
+10-Oct-2019,I-549.10,1,Atlas de Riesgos,Concentración de eventos históricos Santa Anita Hills,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles Zúñiga Lázaro,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+10-Apr-2019,I-549.11,1,POTmet,ÁREAS DE CRECIMIENTO EN RELACIÓN A LOS PERÍMETROS DE CRECIMIENTO MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,SRT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19rDf2eIUu8uyiu4h0txo1ZAiQ-WmPpVJ,19rDf2eIUu8uyiu4h0txo1ZAiQ-WmPpVJ,,,#be906d
+10-Apr-2019,I-549.12,1,POTmet,ÁREAS DE CRECIMIENTO  SEGÚN POLÍTICA DE COMPACIDAD MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,SRT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DRXRyNTtqeplKW3BH7glL_9nTemiWSKA,1DRXRyNTtqeplKW3BH7glL_9nTemiWSKA,,,#be906d
+18/10/2019,I-549.13,1,POTmet,TIPO DE CONECTIVIDAD VIAL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Victoria Estrada, Christian Aguilar",IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1RwQDSBJk4QypmhOugPqWdOHMq0jd2yTO,1RwQDSBJk4QypmhOugPqWdOHMq0jd2yTO,,,#f7c917
+18/10/2019,I-549.14,1,POTmet,RESTRICCIONES GENERADAS POR EL ÁEROPUERTO EN EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+29/10/2019,I-549.15,1,Atlas de Riesgos,INTERRUPCIÓN VIAL POR INUNDACIONES TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,Cuauhtémoc Aquiles Zúñiga Lázaro,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+29/10/2020,I-549.16,1,POTmet,INTERRUPCION VIAL POR ACCIDENTES DE TRANSPORTE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MRMpJdLiMYBaPj0vQ0gkU3-vcIg2Kkhv,1MRMpJdLiMYBaPj0vQ0gkU3-vcIg2Kkhv,,,#df6868
+29/10/2021,I-549.17,1,POTmet,ANÁLISIS DE LA ESTRUCTURA URBANA TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,"Ivan Hernández
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1bnkw_0qy0uBhhFWXQp6xY2xSlSzJoQx8,1bnkw_0qy0uBhhFWXQp6xY2xSlSzJoQx8,,,#efde9d
+29/10/2021,I-549.18,1,POTmet,RESTRICCIÓN POR EL AEROPUERTO TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1N6zXFLg6T0oLybQTX-kQElhWEC-d50jv,1N6zXFLg6T0oLybQTX-kQElhWEC-d50jv,,,#efde9d
+29/10/2021,I-549.19,1,POTmet,"DENSIDAD DE UNIDADES ECONÓMICAS 2019 TLAJOMULCO DE ZÚÑIGA
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1WcNe3PPJCnoOcWowwDfb8YyjrYS0FTgL,1WcNe3PPJCnoOcWowwDfb8YyjrYS0FTgL,,,#efde9d
+7-Oct-2019,I-550.1,1,POTmet,ANÁLISIS DEL CERRO DE LA REINA Y EL INVENTARIO DE PELIGROS METROPOLITANO PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,Martín García,POT,PMR,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1p1-_e0CbwvyKsueoLftCYm1tX8C2Bi9D,1p1-_e0CbwvyKsueoLftCYm1tX8C2Bi9D,,,#efde9d
+7-Oct-2019,I-550.2,1,POTmet,ANÁLISIS DE ESCURRIMIENTOS Y CUERPOS DE AGUA PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,Martín García,POT,PMR,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1TQgBRIQWMbi2Q7Ga1M_4O_UKHVLmQfao,1TQgBRIQWMbi2Q7Ga1M_4O_UKHVLmQfao,,,#efde9d
+8-Oct-2019,I-550.3,1,POTmet,ANÁLISIS DEL CERRO DE LA REINA Y EL ATLAS DE RIESGO MUNICIPAL PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,Martín García,POT,PMR,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19NCpLGVAG8ZnYTZAECzRsfZhqgv4Flvr,19NCpLGVAG8ZnYTZAECzRsfZhqgv4Flvr,,,#efde9d
+10-Oct-2019,I-550.4,1,POTmet,ANÁLISIS DE LAS UNIDADES ECONÓMICAS (DENUE) PERÍODO 2010 - 2015 PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+10-Oct-2019,I-550.5,1,POTmet,ANÁLISIS DE LAS UNIDADES ECONÓMICAS (DENUE) PERÍODO 2015 - 2019 PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+10-Oct-2019,I-550.6,1,POTmet,ANÁLISIS DEL PERSONAL OCUPADO (DENUE) PERÍODO 2010 - 2015 PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+10-Oct-2019,I-550.7,1,POTmet,ANÁLISIS DEL PERSONAL OCUPADO (DENUE) PERÍODO 2015 - 2019 PARA EL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+11-Oct-2019,I-550.8,1,POTmet,"COBERTURA MAPA BASE DE TRANSPORE PÚBLICO 2019 - 2020 
+TONALÁ",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Victoria Estrada, Christian Aguilar",IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Rd4QcwINrvezR6fFxxmCRjFTMRjT4VZq,1Rd4QcwINrvezR6fFxxmCRjFTMRjT4VZq,,,#f7c917
+8-Oct-2019,I - 550.9,1,Atlas de Riesgos,ANÁLISIS FENOMENOS ANTRÒPICOS PARA EL MUNICIPIO DE TONALA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,"Ana Cecilia Perales, Juan Pablo Jiménez",PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1Apb4jCJmqx4OaL6cqghQye_sWfCYsWpu/view?usp=sharing,,,,#df6868
+8-Oct-2019,I-550.10,1,Atlas de Riesgos,ANÁLISIS FENOMENOS NATURALES PARA EL MUNICIPIO DE TONALA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,"Ana Cecilia Perales, Juan Pablo Jiménez",PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1H7Fk9IdUz9YaPs6P3FUdtbqCkd2EHxwz/view?usp=sharing,,,,#df6868
+10-Mar-2019,I - 550.11,1,POTmet,ÁREAS DE CRECIMIENTO EN RELACIÓN A LOS PERÍMETROS DE CRECIMIENTO MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,SRT,,Diagnóstico,,,,,(MA,,,,https://drive.google.com/open?id=1aiJM9sPmt6NsX-eiUFzq3O7oErfz08wF,1aiJM9sPmt6NsX-eiUFzq3O7oErfz08wF,,,#be906d
+10-Mar-2019,I-550.12,1,POTmet,ÁREAS DE CRECIMIENTO  SEGÚN POLÍTICA DE COMPACIDAD MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,SRT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1w3gfRWuzofzK7uVZGQa44jLBCpZRIC1Y,1w3gfRWuzofzK7uVZGQa44jLBCpZRIC1Y,,,#be906d
+22/10/2019,I-550.13,1,POTmet,CRECIMIENTO DE LA HUELLA URBANA PERIODO 2015-2019 DEL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1AtSUkd3_Jei2odW89_H2EChfvVjx3U8K,1AtSUkd3_Jei2odW89_H2EChfvVjx3U8K,,,
+22/10/2019,I-550.14,1,POTmet,ÁREAS DE USO DE SUELO INCOMPATIBLE DEL PPDU EN RELACIÓN CON ANP  DEL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán Aguilera,,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1feReEffSlxXSo92zmLkPMibgigjWhf6r,1feReEffSlxXSo92zmLkPMibgigjWhf6r,,,
+11-Jun-2019,I-550.15,1,POTmet,TIPO DE CONECTIVIDAD VIAL MUNICIPIO DE TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Victoria Estrada, Christian Aguilar",IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Rk52pVc87rt98266M9Pbl8Qvic6wI3A0,1Rk52pVc87rt98266M9Pbl8Qvic6wI3A0,,,#f7c917
+11-Dec-2019,I-550.16,1,POTmet,ANÁLISIS DE LA ESTRUCTURA URBANA TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+22/11/2019,I-550.17,1,Atlas de Riesgos,FENÓMENOS PERTURBADORES NATURALES (CONTAMINACIÓN DEL AGUA) EN TONALÁ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.18,1,Atlas de Riesgos,FENÓMENOS PERTURBADORES NATURALES (INUNDACIÓN) EN TONALÁ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.19,1,Atlas de Riesgos,FENÓMENOS GEOLÓGICOS PERTURBADORES EN TONALÁ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.20,1,Atlas de Riesgos,FENÓMENOS ANTRÓPICOS PERTURBADORES (ALMACENAMIENTO DE SUSTANCIAS PELIGROSAS) EN TONALÁ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.21,1,Atlas de Riesgos,FENÓMENOS PERTURBADORES NATURALES (INUNDACIÓN) EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.22,1,Atlas de Riesgos,FENÓMENOS ANTRÓPICOS PERTURBADORES (CALIDAD DEL AGUA) EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.23,1,Atlas de Riesgos,FENÓMENOS GEOLÓGICOS PERTURBADORES EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.24,1,Atlas de Riesgos,FENÓMENOS ANTRÓPICOS PERTURBADORES (ALMACENAMIENTO DE SUSTANCIAS PELIGROSAS) EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+22/11/2019,I-550.25,1,Atlas de Riesgos,FENÓMENOS ANTRÓPICOS PERTURBADORES (INCENDIOS) EN TLAJOMULCO DE ZÚÑIGA,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Juan Pablo Jiménez,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+7-Oct-2019,I-551,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,José Luis Plascencia,IVT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=18Jmh2GuowUgWgovqNl1cxWqAYpF1gtXm,18Jmh2GuowUgWgovqNl1cxWqAYpF1gtXm,,,#f7c917
+,I-552,1,,VACANTE,,,,,,,,,,,,,,,,,,,,
+7-Oct-2019,I-553,1,POTmet,PUNTOS DE AFORO  ENCUESTA O-D 2007,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Mizael Rosas Sánchez,IVT,,Base,,,,,,,,,,,,,#f7c917
+,I-554,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+,I-555,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+10-Sep-2019,I - 556,1,POTmet,COMPARATIVA DE ARCHIVOS DE RUTAS OPERANDO ENVIADAS POR SETRANS,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Mizael Rosas Sánchez,IVT,,Base,,,,,,,,,,,,,#f7c917
+10-Oct-2019,I-557,1,Atlas de Riesgos,Uso de suelo para Santa Anita Hills,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+10-Oct-2019,I-558,1,POTmet,UBICACIÓN DE PUNTOS DE LEVANTAMIENTO CON ESTACIÓN MAESTRA,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo,IVT,,Base,,,,,,,,,https://drive.google.com/open?id=1CaCHHy2yOy3OoSXlC_1F7bo1SEv37zSy,1CaCHHy2yOy3OoSXlC_1F7bo1SEv37zSy,,,#f7c917
+10-Oct-2019,I-559,1,Atlas de Riesgos,Uso de suelo PPDU para Santa Anita Hills,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Daniela Palomino Guillén,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+14/10/2019,I-560,1,POTmet,CONTRASTE DE INVERSIÓN EN OBRA MUNICIPAL E INVENTARIO NACIONAL DE VIVIENDA PARA EL MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,POT,,,,,,,,,,,,,,,#efde9d
+15/10/2019,I-561.1,1,POTmet,MODIFICACIÓN EN LA COBERTURA DE USO DE SUELO POR CRECIMIENTO URBANO EN EL PERIODO DE 1978 - 1997,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=149V-ERNNyFKM_aJpjXEBjxkMpgKzkBBM,149V-ERNNyFKM_aJpjXEBjxkMpgKzkBBM,,,#efde9d
+15/10/2019,I-561.2,1,POTmet,MODIFICACIÓN EN LA COBERTURA DE USO DE SUELO POR CRECIMIENTO URBANO EN EL PERIODO DE 1997 - 2018,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14M8jOnBsb4ejIT9-hMBenBGT6WTx9LTF,14M8jOnBsb4ejIT9-hMBenBGT6WTx9LTF,,,#efde9d
+15/10/2019,I-561.3,1,POTmet,"INVERSIÓN EN OBRA PÚBLICA POR COLONIA EN EL AÑO 2015, TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1Acs7rBEjXJvnrVvi5_EiC2aetosRClRp,1Acs7rBEjXJvnrVvi5_EiC2aetosRClRp,,,#efde9d
+15/10/2019,I-561.4,1,POTmet,"INVERSIÓN EN OBRA PÚBLICA POR COLONIA EN EL AÑO 2016, TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1N2eyNoLUSRp_oYBkKo07hnnZeOVMA225,1N2eyNoLUSRp_oYBkKo07hnnZeOVMA225,,,#efde9d
+15/10/2019,I-561.5,1,POTmet,"INVERSIÓN EN OBRA PÚBLICA POR COLONIA EN EL AÑO 2017, TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1fCeK485E364poNq28s_HTUl-qIuRimCP,1fCeK485E364poNq28s_HTUl-qIuRimCP,,,#efde9d
+15/10/2019,I-561.6,1,POTmet,"INVERSIÓN EN OBRA PÚBLICA POR COLONIA EN EL AÑO 2018, TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1o1A47UTcr823t6JgTP286Ra5oNEhWalq,1o1A47UTcr823t6JgTP286Ra5oNEhWalq,,,#efde9d
+15/10/2019,I-561.7,1,POTmet,"POTENCIAL RECAUDATORIO DEL COEFICIENTE  DE UTILIZACIÓN DE SUELO MÁXIMO OPTATIVO POR COLONIA, ZAPOPAN",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1QGrFvfqlFcnJSZE5pTDcMOMqSizjT8zT,1QGrFvfqlFcnJSZE5pTDcMOMqSizjT8zT,,,#efde9d
+15/10/2019,I-561.8,1,POTmet,"POTENCIAL RECAUDATORIO DEL COEFICIENTE  DE UTILIZACIÓN DE SUELO MÁXIMO OPTATIVO POR COLONIA, GUADALAJARA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Sabás Ponce, Victoria Estrada",POT,,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1zu3-UBe8ELkqAvB-gH-9EZQp49vYFFXy,1zu3-UBe8ELkqAvB-gH-9EZQp49vYFFXy,,,#efde9d
+15/10/2019,I-561.9,1,POTmet,MODIFICACIÓN DE LA COBERTURA DEL USO DE SUELO EN EL AMG (AÑO 1978),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,POT,SRT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1oX7JYKNoRp11a8tbnwa-0hCoWK5rBw7s,1oX7JYKNoRp11a8tbnwa-0hCoWK5rBw7s,,,#efde9d
+15/10/2019,I-561.10,1,POTmet,MODIFICACIÓN DE LA COBERTURA DEL USO DE SUELO EN EL AMG (AÑO 1997),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,POT,SRT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1PVeHchDnNEQfG3ktt3ePspQ3wTwOT7dh,1PVeHchDnNEQfG3ktt3ePspQ3wTwOT7dh,,,#efde9d
+15/10/2019,I-561.11,1,POTmet,MODIFICACIÓN DE LA COBERTURA DEL USO DE SUELO EN EL AMG (AÑO 2016),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,POT,SRT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1Nhu0oOh2kDxiPu2kZQhdE06Z01LRf4iX,1Nhu0oOh2kDxiPu2kZQhdE06Z01LRf4iX,,,#efde9d
+15/10/2020,I-562.1,1,POTmet,OFERTA DE VIVIENDA SEGÚN SEGMENTO DE MERCADO - SOFTEC,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1ozY1EJXeXqV41oAEA7-weDfuKaJRKO-2,1ozY1EJXeXqV41oAEA7-weDfuKaJRKO-2,,,#cbcbcb
+15/10/2020,I-562.2,1,POTmet,COSTO COMERCIAL POR M² DE VIVIENDA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alejandro Lepe,DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=140GmOjtjymdA7KN4PFCZka62T3RB5HP6,140GmOjtjymdA7KN4PFCZka62T3RB5HP6,,,#cbcbcb
+28/10/2019,I-562.3,1,POTmet,PROMEDIO HISTÓRICO DE TASA DE ABSORCIÓN  DE VIVIENDA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=10e0yxjPuV4ngS3JvjuGW9prkmf0DeZlh,10e0yxjPuV4ngS3JvjuGW9prkmf0DeZlh,,,#cbcbcb
+29/11/2019,I-562.4,1,POTmet,PROMEDIO HISTÓRICO DEL COSTO COMERCIAL OFERTADO DE VIVIENDA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=105u8FRDkslHyMh7NBoagxaAsQxo7KjtM,105u8FRDkslHyMh7NBoagxaAsQxo7KjtM,,,#cbcbcb
+29/11/2019,I-562.5,1,POTmet,"
+PROMEDIO HISTÓRICO ÁREA HABITABLE DE OFERTA DE VIVIENDA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1v18yLTp25e38kbBHaEKcTqZLLkrmVMMa,1v18yLTp25e38kbBHaEKcTqZLLkrmVMMa,,,#cbcbcb
+29/11/2019,I-562.6,1,POTmet,"
+PROMEDIO HISTÓRICO ÉXITO COMERCIAL DE OFERTA DE VIVIENDA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1gjnJYsBo-Da318mFW2gb56E81dZMMtjf,1gjnJYsBo-Da318mFW2gb56E81dZMMtjf,,,#cbcbcb
+12-Nov-2019,I-562.7,1,POTmet,"COSTO PROMEDIO POR M² DE SUELO, OCTUBRE 2019
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,,,,,#cbcbcb
+12-Nov-2019,I-562.8,1,POTmet,COSTO DE RENTA POR CUARTO PARA ESTUDIANTE DICIEMBRE 2019,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1oF9p6m_Q6vIB79_qh9n84apv9JGini03,1oF9p6m_Q6vIB79_qh9n84apv9JGini03,,,#cbcbcb
+17-Dec-2019,I-562.9,1,POTmet,COSTO PROMEDIO DE RENTA AIRBNB DICIEMBRE 2019,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1XwpfCOa-TVn-OGuLGFwFdAxRoFcwx600,1XwpfCOa-TVn-OGuLGFwFdAxRoFcwx600,,,#cbcbcb
+17-Dec-2019,I-562.9,2,POTmet,"SUMATORIA DEL COSTO PROMEDIO DE RENTA POR NOCHE AIRBNB, DICIEMBRE 2019",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",DCU,SRT,Diagnóstico,,,,,"Cobertura de corte a la interpolación  de 1600mts
+",,,,https://drive.google.com/open?id=1umzCzS5QkR4kHJKBq2c27Oi4siAMN1gA,1umzCzS5QkR4kHJKBq2c27Oi4siAMN1gA,,,#cbcbcb
+17/10/2019,I-563,1,POTmet,UBICACIÓN DE LAS CENTRALIDADES EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo,POT,,Base,,,,,,,,,,,,,#efde9d
+22/10/2019,I-564,1,POTmet,"POTENCIAL DE RECAUDACIÓN DE LA 
+CONTRIBUCIÓN DE MEJORAS EN LA LOCALIDAD DE SAN 
+AGUSTÍN MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Sabás Ponce Díaz / Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qFMGjuMPPbguG7McMAu-UVCxVA0_IznG,1qFMGjuMPPbguG7McMAu-UVCxVA0_IznG,,,#efde9d
+22/10/2019,I-565,1,POTmet,POTENCIAL RECAUDATORIO ICUS-CUS MAX EN CORREDOR AEROPUERTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Pn6639ILlZbkGorVWt0c1lYE9-v0jtZV,1Pn6639ILlZbkGorVWt0c1lYE9-v0jtZV,,,#efde9d
+22/10/2019,I-566,1,POTmet,"UBICACIÓN DE ASCENSOS Y DESCENSOS DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qZ9Syjx7ovQBd_Gr8ERxo5De43TMzSti,1qZ9Syjx7ovQBd_Gr8ERxo5De43TMzSti,,,#f7c917
+22/10/2019,I-567,1,POTmet,"RECORRIDOS  Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DhlWrTlPzvtoyx_BJ4VclYz0LCtaevot,1DhlWrTlPzvtoyx_BJ4VclYz0LCtaevot,,,#f7c917
+22/10/2019,I-568,1,POTmet,"COBERTURA DE RUTAS DE TRANSPORTE PÚBLICO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14q-uAhz2A6zT7JYudk_XmmKlKqoUUXi2,14q-uAhz2A6zT7JYudk_XmmKlKqoUUXi2,,,#f7c917
+22/10/2019,I-569,1,POTmet,"RECORRIDO DE LA RUTA 55 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=17990qEWKnt4HVSxpiC2zjabvymqxMhzY,17990qEWKnt4HVSxpiC2zjabvymqxMhzY,,,#f7c917
+22/10/2019,I-570,1,POTmet,"RECORRIDO DE LA RUTA 59 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=13u-491DogdHBy1yZOEq5RyOKC9QjEyNL,13u-491DogdHBy1yZOEq5RyOKC9QjEyNL,,,#f7c917
+22/10/2019,I-571,1,POTmet,"RECORRIDO DE LA RUTA 231 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1-fKFvsIfxiImKhZR-FZJeJTCK_oqHLKh,1-fKFvsIfxiImKhZR-FZJeJTCK_oqHLKh,,,#f7c917
+22/10/2019,I-572,1,POTmet,"RECORRIDO DE LA RUTA 231C DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1sPfX_CFd5pW9EVxvgBLgFWM6YwlYZjiV,1sPfX_CFd5pW9EVxvgBLgFWM6YwlYZjiV,,,#f7c917
+22/10/2019,I-573,1,POTmet,"RECORRIDO DE LA RUTA 615 HOSPITAL CIVIL Y 615 HOSPICIO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1In72d8rp-iPepsgGGy4CnomDofTZmkCv,1In72d8rp-iPepsgGGy4CnomDofTZmkCv,,,#f7c917
+22/10/2019,I-574,1,POTmet,"RECORRIDO DE LA RUTA 615 VOCA  Y 615 CENTRO UNIVERSITARIO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1M5Xoh9Pk_FXHPMb_Ot2uDMOBKTBJlVPd,1M5Xoh9Pk_FXHPMb_Ot2uDMOBKTBJlVPd,,,#f7c917
+22/10/2019,I-575,1,POTmet,"RECORRIDO DE LA RUTA 616 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1fAtBXMygl7kx1HE-S3iWJfIK4Q7L2Cg8,1fAtBXMygl7kx1HE-S3iWJfIK4Q7L2Cg8,,,#f7c917
+22/10/2019,I-576,1,POTmet,"RECORRIDO DE LA RUTA 646 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=11GPdvvmPo5k7_zo3MJQs52Bl2bk_6tj4,11GPdvvmPo5k7_zo3MJQs52Bl2bk_6tj4,,,#f7c917
+22/10/2019,I-577,1,POTmet,"RECORRIDO DE LA RUTA 646 ROSARIO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=11s4FSQELfy2v68UOHP1bBNVTpJ0XKwnD,11s4FSQELfy2v68UOHP1bBNVTpJ0XKwnD,,,#f7c917
+22/10/2019,I-578,1,POTmet,"RECORRIDO DE LA RUTA 808 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ehO6YKTcVqJH3D_N0qrybWu75xRqZ2X4,1ehO6YKTcVqJH3D_N0qrybWu75xRqZ2X4,,,#f7c917
+22/10/2019,I-579,1,POTmet,"RECORRIDO DE LA RUTA 809 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qDsIxdH1L8s5CN1UnGPEmbNBrd9faTS7,1qDsIxdH1L8s5CN1UnGPEmbNBrd9faTS7,,,#f7c917
+22/10/2019,I-580,1,POTmet,"RECORRIDO DE LA RUTA C34 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ZZ1OM_jADn5lqzoEtn5IQ-qSLX5i0T2l,1ZZ1OM_jADn5lqzoEtn5IQ-qSLX5i0T2l,,,#f7c917
+22/10/2019,I-581,1,POTmet,"RECORRIDO DE LA RUTA C53 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ONbF9NMmE6JfrkC5JssXpffICFvD59T8,1ONbF9NMmE6JfrkC5JssXpffICFvD59T8,,,#f7c917
+22/10/2019,I-582,1,POTmet,"RECORRIDO DE LA RUTA 51C DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA LOMA DORADA ""DELEGACIÓN B"" (TONALÁ)",En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1FyFbKvJIEQgG_QNLx6ARkrcrYlkRliiB,1FyFbKvJIEQgG_QNLx6ARkrcrYlkRliiB,,,#f7c917
+23/10/2019,I-583,1,POTmet,RECORRIDOS  Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1j84Z3nnxb5_TWhaSL2aE5DWkmlGeHFNE,1j84Z3nnxb5_TWhaSL2aE5DWkmlGeHFNE,,,#f7c917
+23/10/2019,I-584,1,POTmet,UBICACIÓN DE ASCENSOS Y DESCENSOS DENTRO DEL POLÍGONO DE ESTUDIO EN LA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1NpH8VaujzAiXtbdZRjOKpAWKfrx2DIAb,1NpH8VaujzAiXtbdZRjOKpAWKfrx2DIAb,,,#f7c917
+23/10/2019,I-585,1,POTmet,COBERTURA DE RUTAS DE TRANSPORTE PÚBLICO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Q95dJrW7WvxFA_4vwwTfo36FEOl8icZH,1Q95dJrW7WvxFA_4vwwTfo36FEOl8icZH,,,#f7c917
+23/10/2019,I-586,1,POTmet,RECORRIDO DE LA RUTA 330 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1bKrjnXyFgjKz77IkmASslnOqAmdqCimD,1bKrjnXyFgjKz77IkmASslnOqAmdqCimD,,,#f7c917
+23/10/2019,I-587,1,POTmet,RECORRIDO DE LA RUTA 615 HOSPITAL CIVIL Y 615 HOSPICIO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL(TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pE9ZXx98GLeJa2Lj4IYsK8zsbVivMkR1,1pE9ZXx98GLeJa2Lj4IYsK8zsbVivMkR1,,,#f7c917
+23/10/2019,I-588,1,POTmet,RECORRIDO DE LA RUTA 615 VOCA  Y 615 CENTRO UNIVERSITARIO DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1bGCsHas9ZXqLjpAcYWtCiqVeoWMGOEXg,1bGCsHas9ZXqLjpAcYWtCiqVeoWMGOEXg,,,#f7c917
+23/10/2019,I-589,1,POTmet,RECORRIDO DE LA RUTA 809 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1npFNLVDm7grCguKJhkfZ5Gc8gGy259Eu,1npFNLVDm7grCguKJhkfZ5Gc8gGy259Eu,,,#f7c917
+23/10/2019,I-590,1,POTmet,RECORRIDO DE LA RUTA C46V1 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=17wABOftNFD5fp5XooSYIQqLAObNUj-Dn,17wABOftNFD5fp5XooSYIQqLAObNUj-Dn,,,#f7c917
+23/10/2019,I-591,1,POTmet,RECORRIDO DE LA RUTA C46V2 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Yz_K0wJK8vJYK0gYGvjyono-1ly5ZHyj,1Yz_K0wJK8vJYK0gYGvjyono-1ly5ZHyj,,,#f7c917
+24/10/2019,I-592,1,POTmet,RECORRIDOS  Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1tu7O1z7BVnlz_UldoYYwMLeD8VZxMlNx,1tu7O1z7BVnlz_UldoYYwMLeD8VZxMlNx,,,#f7c917
+24/10/2019,I-593,1,POTmet,UBICACIÓN DE ASCENSOS Y DESCENSOS DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1NecWRoIaK0tcR4PUMN-dprRgkrrmbO8v,1NecWRoIaK0tcR4PUMN-dprRgkrrmbO8v,,,#f7c917
+24/10/2019,I-594,1,POTmet,COBERTURA DE RUTAS DE TRANSPORTE PÚBLICO DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1cZ9AKO0C7jkvsoeaNipcvbii-r9FJMMg,1cZ9AKO0C7jkvsoeaNipcvbii-r9FJMMg,,,#f7c917
+24/10/2019,I-595,1,POTmet,RECORRIDO DE LA RUTA 24 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1-amEvbfQ6pZ-Y0L4Cyaa03dWKWWUkJLi,1-amEvbfQ6pZ-Y0L4Cyaa03dWKWWUkJLi,,,#f7c917
+24/10/2019,I-596,1,POTmet,RECORRIDO DE LA RUTA 27 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1P3Zp4oZr-PONYQkFkqWyycYWF-JhVJwR,1P3Zp4oZr-PONYQkFkqWyycYWF-JhVJwR,,,#f7c917
+24/10/2019,I-597,1,POTmet,RECORRIDO DE LA RUTA 27A DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1p_ZlEIyqaGWUZP5jBxbTLspYzE1A5857,1p_ZlEIyqaGWUZP5jBxbTLspYzE1A5857,,,#f7c917
+24/10/2019,I-598,1,POTmet,RECORRIDO DE LA RUTA 37 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1sjDAlEHdRakCUslxgGwkUpDOhmMkhjAg,1sjDAlEHdRakCUslxgGwkUpDOhmMkhjAg,,,#f7c917
+24/10/2019,I-599,1,POTmet,RECORRIDO DE LA RUTA C01 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1_gOuE0Rfqu2GIySMUkGzcOvFDLwBe-DV,1_gOuE0Rfqu2GIySMUkGzcOvFDLwBe-DV,,,#f7c917
+24/10/2019,I-600,1,POTmet,RECORRIDO DE LA RUTA 110A DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ViopGdh0L-jzz0mRBjy3sr4NaL0eKEbt,1ViopGdh0L-jzz0mRBjy3sr4NaL0eKEbt,,,#f7c917
+24/10/2019,I-601,1,POTmet,RECORRIDO DE LA RUTA 258 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1x73f6cZClNsP4GL6puvqPwMQGUgmmRXE,1x73f6cZClNsP4GL6puvqPwMQGUgmmRXE,,,#f7c917
+24/10/2019,I-602,1,POTmet,RECORRIDO DE LA RUTA 258A DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1n364fQFPQfLuJQiznRjbJqau1uzWdp50,1n364fQFPQfLuJQiznRjbJqau1uzWdp50,,,#f7c917
+24/10/2019,I-603,1,POTmet,RECORRIDO DE LA RUTA 371 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Ar4GPPH2qDuCgsqcKOj7NgeMtxqIpVMM,1Ar4GPPH2qDuCgsqcKOj7NgeMtxqIpVMM,,,#f7c917
+24/10/2019,I-604,1,POTmet,RECORRIDO DE LA RUTA 622 DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1VfK5dbFBax7_nneDMoQuVfr957Zl2vnF,1VfK5dbFBax7_nneDMoQuVfr957Zl2vnF,,,#f7c917
+24/10/2019,I-605,1,POTmet,RECORRIDO DE LA RUTA 622A DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1K5T2s2IdQlut5ZpF2Xg9hvTC0_T3QcBg,1K5T2s2IdQlut5ZpF2Xg9hvTC0_T3QcBg,,,#f7c917
+24/10/2019,I-606,1,POTmet,RECORRIDO DE LA RUTA 51C DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1urVtMP_A8_-WPKhy12Bm6B67YS7J-bEf,1urVtMP_A8_-WPKhy12Bm6B67YS7J-bEf,,,#f7c917
+24/10/2019,I-607.1,1,POTmet,MAPA FUNCIONAL PARA LA REGULACIÓN A LA CIRCULACIÓN DE VEHÍCULOS DE CARGA EN EL ÁREA METROPOLITANA DE GUADALAJARA,Validado,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada / Iván Hernández,IVT,POT,Estrategia,1,,,,,,,,https://drive.google.com/open?id=1Ovj87MhTGLv1tdT-LRDnnBHNepaLwDAO,1Ovj87MhTGLv1tdT-LRDnnBHNepaLwDAO,,,#f7c917
+24/10/2019,I-607.2,1,POTmet,MAPA ANEXO 1 DEL MAPA FUNCIONAL ,Validado,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada / Iván Hernández,IVT,POT,Estrategia,1,,,,,,,,https://drive.google.com/open?id=1mQgC9B2nn6UWyWmqroPM2KSljzH00z8I,1mQgC9B2nn6UWyWmqroPM2KSljzH00z8I,,,#f7c917
+24/10/2019,I-607.3,1,POTmet,MAPA ANEXO 2 DEL MAPA FUNCIONAL ,Validado,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada / Iván Hernández,IVT,POT,Estrategia,1,,,,,,,,https://drive.google.com/open?id=16lY4KbRCbDA5ymA-65ADcARnopGLj6sQ,16lY4KbRCbDA5ymA-65ADcARnopGLj6sQ,,,#f7c917
+24/10/2019,I-607.3,2,POTmet,MAPA ANEXO 2 DEL MAPA FUNCIONAL ,Validado,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada / Iván Hernández,IVT,POT,Estrategia,1,,,,,,,,https://drive.google.com/open?id=1mpytBTo4XgvQg5zPin6of7g1Oy98fw04,1mpytBTo4XgvQg5zPin6of7g1Oy98fw04,,,#f7c917
+25/10/2019,I-608,1,POTmet,UBICACIÓN DE LOS PUNTOS DE AFORO PARA TRANSPORTE DE CARGA,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Víctor Galindo,IVT,,Base,,,,,,,,,https://drive.google.com/open?id=1K811C4GCRRKhbxO2Pu17C8eJDTnAZcf5,1K811C4GCRRKhbxO2Pu17C8eJDTnAZcf5,,,#f7c917
+25/10/2019,I-609,1,POTmet,RECORRIDO DE LA RUTA 231C DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MxHbylXsfVEXqMb5JPe9ML8ZBcIIQgas,1MxHbylXsfVEXqMb5JPe9ML8ZBcIIQgas,,,#f7c917
+25/10/2019,I-610,1,POTmet,RECORRIDO DE LA RUTA 59 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qL67rCY6s6cmkLlcsApmYItrlkrvf7cC,1qL67rCY6s6cmkLlcsApmYItrlkrvf7cC,,,#f7c917
+28/10/2019,I-611,1,,VIALIDADES PARCIALMENTE AFECTADAS POR INUNDACIONES ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc Aquiles,GRS,,Diagnóstico,,,,,,,,,,,,,#537b59
+1-Sep-2019,I-612,1,POTmet,LÍMITE DE CENTRLIDADES - 2020,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Alejandro Lepe,POT,,Base,,,,,,,,,,,,,#efde9d
+,I-613,,,VACANTE,,,,,,,,,,,,,,,,,,,,
+11-Jan-2019,I-614,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN PONCIANO ARRIAGA (SAN PEDRO TLAQUEPAQUE),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1iektU8eT7n4_iPTHhdI73DXCDY66vuc9,1iektU8eT7n4_iPTHhdI73DXCDY66vuc9,,,#f7c917
+11-Jan-2019,I-615,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN VILLAS ANDALUCIA (JUANACATLAN),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1bkUpOW9yctWYLwF6UuXTQfk6Yz9Om-69,1bkUpOW9yctWYLwF6UuXTQfk6Yz9Om-69,,,#f7c917
+11-Jan-2019,I-616,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN LOS ENCINOS (TLAJOMULCO DE ZUÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1-hR-nJ7UKQm8E6CUvm74VzzmTIuCO3Bx,1-hR-nJ7UKQm8E6CUvm74VzzmTIuCO3Bx,,,#f7c917
+11-Jan-2019,I-617,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICOEN  LA NUEVA CENTRAL CAMIONERA (SAN PEDRO TLAQUEPAQUE),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1P0AuLkfn4dR1meMBdeU1QaA3ae1eGLam,1P0AuLkfn4dR1meMBdeU1QaA3ae1eGLam,,,#f7c917
+11-Jan-2019,I-618,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN CENTRO DE TLAJOMULCO DE ZUÑIGA,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1IQtdx9w5PENhCjSS2Tsz7cphrGL2MUVv,1IQtdx9w5PENhCjSS2Tsz7cphrGL2MUVv,,,#f7c917
+11-Jan-2019,I-619,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN BOSQUE DE ALBATERRA (ZAPOPAN),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1AbJBZHaKNDlCqfXnMS0HA4hMMMJt9y2a,1AbJBZHaKNDlCqfXnMS0HA4hMMMJt9y2a,,,#f7c917
+11-Jan-2019,I-620,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN LA JUNTA DE LOS OCOTES (ZAPOPAN),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1VLwHU3QgTCPMDCWfZ0-HWs7HzOqLrtFZ,1VLwHU3QgTCPMDCWfZ0-HWs7HzOqLrtFZ,,,#f7c917
+11-Jan-2019,I-621,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN GALAXIA BONITO JALISCO (EL SALTO),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1BDlGewIORt8_ZNaLdKOkuu_mLz3TLJSi,1BDlGewIORt8_ZNaLdKOkuu_mLz3TLJSi,,,#f7c917
+11-Jan-2019,I-622.1,1,POTmet,DIFERENCIAS DEL POLÍGONO DEL ANP LA PRIMAVERA - SEMADET Y CONANP,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,PRE,POT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1iTU5sjM8QR5OhPlMEosrBNef-CtRN_nt,1iTU5sjM8QR5OhPlMEosrBNef-CtRN_nt,,,#73b673
+11-Jan-2019,I-622.2,1,POTmet,DIFERENCIAS DEL POLÍGONO DEL ANP LA PRIMAVERA - SEMADET Y POET,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,PRE,POT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1V-f-qFXNKrt9bii9EafaExb1B0fon7y0,1V-f-qFXNKrt9bii9EafaExb1B0fon7y0,,,#73b673
+11-Jan-2019,I-622.3,1,POTmet,COMPARATIVA ANP LA PRIMAVERA Y DECRETOS - BAJÍO Y TAJO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,PRE,POT,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1Y4TkMjgRoSJ6OAkXCI5r7YvzogIGpsc4,1Y4TkMjgRoSJ6OAkXCI5r7YvzogIGpsc4,,,#73b673
+11-Jan-2019,I-622.4,1,POTmet,"COMPARATIVA ANP LA PRIMAVERA, POEL ZAPOPAN Y POEL TLAJOMULCO (VIGENTES)",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,PRE,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1O1T_MuEziACtGRHZE1ZqtAwxGa9_vMI9,1O1T_MuEziACtGRHZE1ZqtAwxGa9_vMI9,,,#73b673
+11-Jan-2019,I-622.5,1,POTmet,"COMPARATIVA ANP LA PRIMAVERA, POEL ZAPOPAN Y POEL TLAJOMULCO (NUEVOS)",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,PRE,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1JFUSczBygSPeCpJkfzzH0YebU2rnafoZ,1JFUSczBygSPeCpJkfzzH0YebU2rnafoZ,,,#73b673
+11-Jan-2019,"I-623.1
+",1,POTmet,EVENTOS HISTÓRICOS FENÓMENOS NATURALES LÍNEA 4 TREN LIGERO,,,,,,,,,,,,,,,,,,,,
+11-Jan-2019,"I-623.2
+",1,POTmet,EVENTOS HISTÓRICOS FENÓMENOS QUÍMICO-TECNOLÓGICOS LÍNEA 4 TREN LIGERO,,,,,,,,,,,,,,,,,,,,
+11-Jan-2019,"I-623.3
+",1,POTmet,EVENTOS HISTÓRICOS FENÓMENOS SANITARIO Y SOCIO-ORGANIZATIVOS LÍNEA 4 TREN LIGERO,,,,,,,,,,,,,,,,,,,,
+11-Jan-2019,I-623.5,1,POTmet,"RELACIÓN DE ESTRATEGIA POTmet DE TRANSPORTE MASIVO Y ALIMENTADOR LÍNEA 4 TREN LIGERO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",IVT,,Base,,,,,,,,,,,,,#f7c917
+11-Apr-2019,I-623.6,1,POTmet,ZONIFICACIÓN SEGÚN PPDU LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14pbgKV5EQ5gJ_i1uWx5SXSouDROLCThr,14pbgKV5EQ5gJ_i1uWx5SXSouDROLCThr,,,#efde9d
+12-Apr-2019,I-623.7,1,POTmet,ZONIFICACIÓN SEGÚN POTmet LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1rlvDlqIre-RB9IgWuK0dPCmy5_V8mkbe,1rlvDlqIre-RB9IgWuK0dPCmy5_V8mkbe,,,#efde9d
+,I-623.8,,,ESTIMACIÓN DE POBLACIÓN LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Christian Aguilar, Victoria Estrada",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1BrQ-beaJ-gJ31-Vj8SgBGrrEuyBI9HXI,1BrQ-beaJ-gJ31-Vj8SgBGrrEuyBI9HXI,,,#efde9d
+31/10/2021,I-623.9,1,POTmet,ESTIMACIÓN DE LA POBLACIÓN POR LOCALIDAD Y EN RESERVA URBANA SEGÚN CRITERIO DE COMPACIDAD - LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1RppKuIyAvl-tLophwG4Wa2Ls0E8gHNND,1RppKuIyAvl-tLophwG4Wa2Ls0E8gHNND,,,#efde9d
+11-Apr-2019,I-623.10,1,POTmet,ESTRUCTURA URBANA METROPOLITANA LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qaXTZ5AFy5bj5jHwosItadEhpdwXu_IX,1qaXTZ5AFy5bj5jHwosItadEhpdwXu_IX,,,#efde9d
+11-Apr-2019,I-623.11,1,POTmet,LÍMITES DISTRITALES DE INSTRUMENTOS DE PLANEACIÓN VIGENTES LÍNEA 4 TREN LIGERO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1OqUa6ZgK_87ATqrgFonVzq950RcWG8yW,1OqUa6ZgK_87ATqrgFonVzq950RcWG8yW,,,#efde9d
+11-May-2019,I-623.12,1,POTmet,"RESTRICCIONES PARA EL CRECIMIENTO URBANO MUNICIPIOS EN TORNO A LÍNEA 4 TREN LIGERO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1llmoQ-jI65bA3-E6eB2Ifbk_-sNS6_ik,1llmoQ-jI65bA3-E6eB2Ifbk_-sNS6_ik,,,#efde9d
+11-May-2019,I-623.13,1,POTmet,"RESTRICCIONES PARA EL CRECIMIENTO URBANO POTmet LÍNEA 4 TREN LIGERO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=11OdjypaUuRAloEY61JpKSJnIScVXeYwL,11OdjypaUuRAloEY61JpKSJnIScVXeYwL,,,#efde9d
+11-May-2019,I-624,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN AV. COLINA REAL (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UlCANjXLxyLh0WTyUkk4q77KfPGod5uI,1UlCANjXLxyLh0WTyUkk4q77KfPGod5uI,,,#efde9d
+11-May-2019,I-625,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN EL FRACC. LAS AGUJAS/CUCBA (ZAPOPAN),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1W2UYOZtIdo0RGaUhRU0rg4BSNwASDhN8,1W2UYOZtIdo0RGaUhRU0rg4BSNwASDhN8,,,#efde9d
+11-May-2019,I-626,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN LOS CAMICHINES/ALAMEDA  (TONALÁ) ,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1Zd3xlvD5Je1S5w_0w9Ew-RNFhGYQ_aQY,1Zd3xlvD5Je1S5w_0w9Ew-RNFhGYQ_aQY,,,#efde9d
+11-May-2019,I-627,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA MEJORA DE SERVICIO DE TRANSPORTE PÚBLICO EN LAS LUCES (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1wouU5jZwNZ4CU8HBWb18ttAij2DVJpeX,1wouU5jZwNZ4CU8HBWb18ttAij2DVJpeX,,,#efde9d
+11-Nov-2019,I-628,1,Atlas de Riesgos,INVENTARIO DE PELIGROS METROPOLITANO ACTUALIZADO POR EL VIMOZmetro_GEOLÓGICO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1PWoxintqOl9U6h-ECvyv1SAS-M2dfDB6,1PWoxintqOl9U6h-ECvyv1SAS-M2dfDB6,,,#df6868
+12-Nov-2019,I-629,1,Atlas de Riesgos,INVENTARIO DE PELIGROS METROPOLITANO ACTUALIZADO POR EL VIMOZmetro_HIDROMETEOROLÓGICO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1jfUPL_nbH9sSDfwxInvJYXaHxO7Ia-No,1jfUPL_nbH9sSDfwxInvJYXaHxO7Ia-No,,,#df6868
+13-Nov-2019,I-630,1,Atlas de Riesgos,INVENTARIO DE PELIGROS METROPOLITANO ACTUALIZADO POR EL VIMOZmetro_QUIMICOTECNOLÓGICO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19D1ojSE5a-48rNhKVj628Hsm3S4N1EHO,19D1ojSE5a-48rNhKVj628Hsm3S4N1EHO,,,#df6868
+14-Nov-2019,I-631,1,Atlas de Riesgos,INVENTARIO DE PELIGROS METROPOLITANO ACTUALIZADO POR EL VIMOZmetro_SANITARIOECOLÓGICO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1WJAs2Hc965LUW16UkOUnDtgt1ac1DoQ1,1WJAs2Hc965LUW16UkOUnDtgt1ac1DoQ1,,,#df6868
+15-Nov-2019,I-632,1,Atlas de Riesgos,INVENTARIO DE PELIGROS METROPOLITANO ACTUALIZADO POR EL VIMOZmetro_SOCIOORGANIZATIVO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nPwWQnD5-HfSzWyaxvOrbo-PZ8Y31mnG,1nPwWQnD5-HfSzWyaxvOrbo-PZ8Y31mnG,,,#df6868
+11-Dec-2019,I-633,1,POTmet,ESTUDIO DE RECONOCIMIENTO DE SITIO PARA LA AMPLIACIÓN DE LA RUTA 371,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1TOVA7k66BV57KX5joYhuvj_61OBPI3fz,1TOVA7k66BV57KX5joYhuvj_61OBPI3fz,,,#f7c917
+13/11/2019,I-634,1,POTmet,RECORRIDO Y PARADAS DE LA RUTA 371,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=17SBzf9oaf_67eM9NWRFgHqfEYMF2BYjz,17SBzf9oaf_67eM9NWRFgHqfEYMF2BYjz,,,#f7c917
+13/11/2019,I-635,1,POTmet,UBICACIÓN DE ASCENSOS Y DESCENSOS DE LA RUTA 371,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1he42DABJMnvfWfDDlJBclXNEEuKQBkJO,1he42DABJMnvfWfDDlJBclXNEEuKQBkJO,,,#f7c917
+13/11/2019,I-636,1,POTmet,COBERTURA DE TRANSPORTE PÚBLICO DE LA RUTA 371,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1XeFf1Qj07FFrWONSg2NnimhUmt3vjKmE,1XeFf1Qj07FFrWONSg2NnimhUmt3vjKmE,,,#f7c917
+14/11/2019,I-637,1,POTmet,"CARACTERIZACIÓN DE POBLACIÓN Y CENTROS COMERCIALES 
+A 15 MINUTOS DEL POLÍGONO AGUA AZUL",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1c_ukwnbh6avl601mtC4zi5YRNx0ctgZ0,1c_ukwnbh6avl601mtC4zi5YRNx0ctgZ0,,,#efde9d
+14/11/2019,I-637,2,POTmet,"CARACTERIZACIÓN DE POBLACIÓN Y CENTROS COMERCIALES 
+A 10 MINUTOS DEL POLÍGONO AGUA AZUL",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=16OGVJawzahMxWtPbmT1Fe0UJabIwJKt5,16OGVJawzahMxWtPbmT1Fe0UJabIwJKt5,,,#efde9d
+15/11/19,I-638,,POTmet,RECORRIDO DE LA RUTA 03 DENTRO DEL POLÍGONO DE ESTUDIO EN LA COLONIA BALCONES DEL SOL (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gLpEMefm19jd-yMoGnY9LL7xCPiERG2U,1gLpEMefm19jd-yMoGnY9LL7xCPiERG2U,,,#f7c917
+15/11/19,I-639,1,POTmet,PLAZAS COMERCIALES EN EL ÁREA METROPOLITANA DE GUADALAJARA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1mDKXqT9LWK5wbas2mavlsJLpHs_tq1XQ,1mDKXqT9LWK5wbas2mavlsJLpHs_tq1XQ,,,#efde9d
+25/11/2019,I-640,1,POTmet,RECORRIDOS Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pF031Z64GEe7WHWaTHI1of-MxXSB5qa8,1pF031Z64GEe7WHWaTHI1of-MxXSB5qa8,,,#f7c917
+25/11/2019,I-641,1,POTmet,UBICACIÓN DE ASCENSOS Y DESCENSOS DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ) ,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1HYfmentM05I8yjHxBQv-MOOmDTdcgfG1,1HYfmentM05I8yjHxBQv-MOOmDTdcgfG1,,,#f7c917
+25/11/2019,I-642,1,POTmet,COBERTURA DE RUTAS DE TRANSPORTE PÚBLICO DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ) ,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1yoPXcvgJeHa6U3bwKo7LmoFQFM1hLj6a,1yoPXcvgJeHa6U3bwKo7LmoFQFM1hLj6a,,,#f7c917
+25/11/2019,I-643,1,POTmet,RECORRIDO DE LA RUTA 03 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1svqw2QLeXXcOxS_Y4PnnS1sQ5jwn61zr,1svqw2QLeXXcOxS_Y4PnnS1sQ5jwn61zr,,,#f7c917
+25/11/2019,I-644,1,POTmet,RECORRIDO DE LA RUTA 37 SAN GASPAR DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1_gkAkCy8kb46e7KcgwlsGTa28oe6SaR6,1_gkAkCy8kb46e7KcgwlsGTa28oe6SaR6,,,#f7c917
+25/11/2019,I-645,1,POTmet,RECORRIDO DE LA RUTA 153 CTM DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1EnnhjiYKaunYK_8_bTXgJ3-3IZDSzfZZ,1EnnhjiYKaunYK_8_bTXgJ3-3IZDSzfZZ,,,#f7c917
+25/11/2019,I-646,1,POTmet,RECORRIDO DE LA RUTA C18 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1JahKb6VjT_othcY5TRyv0kdahwwrcFoF,1JahKb6VjT_othcY5TRyv0kdahwwrcFoF,,,#f7c917
+25/11/2019,I-647,1,POTmet,RECORRIDO DE LA RUTA 368 CUT DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19i9jm7fjwQv2czTMr8oMGM43-xcUf6wi,19i9jm7fjwQv2czTMr8oMGM43-xcUf6wi,,,#f7c917
+25/11/2019,I-648,1,POTmet,RECORRIDO DE LA RUTA 380 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qifxhpO67t1uFwUBJ0P0_OQUg-2zsZ0Y,1qifxhpO67t1uFwUBJ0P0_OQUg-2zsZ0Y,,,#f7c917
+25/11/2019,I-649,1,POTmet,RECORRIDO DE LA RUTA 605 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1LE37GLBYyAtYRKvlWNiiC_PTgLcOfh5p,1LE37GLBYyAtYRKvlWNiiC_PTgLcOfh5p,,,#f7c917
+25/11/2019,I-650,1,POTmet,RECORRIDO DE LA RUTA 608 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ulBzr1CfaZxwzFXUjV4poM167nz-XfmE,1ulBzr1CfaZxwzFXUjV4poM167nz-XfmE,,,#f7c917
+25/11/2019,I-651,1,POTmet,RECORRIDO DE LA RUTA C29 V2 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1FMksHizKPrs1LPpa_eqiKAa71RI7KFTD,1FMksHizKPrs1LPpa_eqiKAa71RI7KFTD,,,#f7c917
+25/11/2019,I-652,1,POTmet,RECORRIDO DE LA RUTA 808 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1pihNTBVByD65k5rAbsNuRKD8yuZ40nGV,1pihNTBVByD65k5rAbsNuRKD8yuZ40nGV,,,#f7c917
+25/11/2019,I-653,1,POTmet,RECORRIDO DE LA RUTA C55 DENTRO DEL POLÍGONO DE ESTUDIO EN SAN GASPAR (TONALÁ),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1OZdrQC5Cy8BpkQ0fXjGqi39LOPVhj6UQ,1OZdrQC5Cy8BpkQ0fXjGqi39LOPVhj6UQ,,,#f7c917
+26/11/2019,I-654,1,POTmet,RECORRIDO DE LA RUTA 33A DENTRO DEL POLÍGONO DE ESTUDIO EN AV. TERRANOVA/VALLARTA NORTE (GUADALAJARA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ToihR7wHQcMHN2XJmmmAuIEEY5PvHVRV,1ToihR7wHQcMHN2XJmmmAuIEEY5PvHVRV,,,#f7c917
+29/11/2019,I-655,1,POTmet,INVASIÓN DE LOS ASENTAMIENTOS HUMANOS A LOS CUERPOS DE AGUA EN EL AMG,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Martín García,POT,PRE,Diagnóstico,1,,,,,,,,https://drive.google.com/open?id=1wFbATH2Mbhd4--8Uesyffy3uJh8HuWPA,1wFbATH2Mbhd4--8Uesyffy3uJh8HuWPA,,,#efde9d
+29/11/2019,I-656.1,1,POTmet,CRITERIOS GENERALES PARA EL DESARROLLO TERRITORIAL MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Estrategia,,,,,,,,,https://drive.google.com/open?id=1-vsHoCJTnwB09MUBkJvvwR90luKhk1tL,1-vsHoCJTnwB09MUBkJvvwR90luKhk1tL,,,#efde9d
+16/12/2019,I-656.2,1,POTmet,"MARGINACIÓN URBANA MI MACRO PERIFÉRICO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+16-Jan-2020,I-656.3,1,POTmet,"ZONAS DE RENOVACIÓN URBANA MI MACRO PERIFÉRICO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,DCU,Diagnóstico,,,,,,,,,,,,,#efde9d
+24-Jan-2020,I-656.4,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.5,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 1),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.6,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 2),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.7,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 3),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.8,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 4),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.9,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 5),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.10,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 6),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.11,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 7),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.12,1,Atlas de Riesgos,FACTORES DETERMINANTES DEL RIESGO DE INUNDACIÓN MI-MACROPERIFPERICO (ZONA 8),En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Alan Preciado,PMR,POT,Diagnóstico,,,,,,,,,,,,,#df6868
+,I-656.13,1,POTmet,"DISTRIBUCIÓN DE POBLACIÓN MI MACRO PERIFÉRICO
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.14,1,POTmet,ESTIMACIÓN DE PERSONAL OCUPADO MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.15,1,POTmet,"USO DE SUELO PRINCIPAL POR 
+CONCENTRACIÓN DE PERSONAL OCUPADO
+ MI MACRO PERIFÉRICO",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.16,1,POTmet,TENENCIA SOCIAL Y ASENTAMIENTOS DE ORIGEN IRREGULAR MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.17,1,POTmet,POTENCIAL DE CAPTACIÓN DE PLUSVALÍAS Y NEUS MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.18,1,POTmet,MAPA BASE MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.19,1,POTmet,PRIORIZACIÓN DE CENTRALIDAD PARA EL ESTABLECIMIENTO DE VIVIENDA MI MACRO PERIFÉRICO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Ivan Hernández
+",POT,IVT,Diagnóstico,,,,,,,,,,,,,#efde9d
+,I-656.20,1,Atlas de Riesgos,POBLACIÓN E INFRAESTRUCTURA EXPUESTA AL RIESGO DE INUNDACIÓN MI-MACROPERIFÉRICO,,,,,,,,,,,,,,,,,,,,
+2-Dec-2019,I-657,1,POTmet,RECORRIDOS Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=18P55-d0l_kCrAZmWer8QMVryo2kzznWe,18P55-d0l_kCrAZmWer8QMVryo2kzznWe,,,#f7c917
+2-Dec-2019,I-658,1,POTmet,RECORRIDOS Y PARADAS DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ATEgIKu9vnmSAS5DNyNsCHdz5sA00Yoj,1ATEgIKu9vnmSAS5DNyNsCHdz5sA00Yoj,,,#f7c917
+2-Dec-2019,I-659,1,POTmet,COBERTURA DE RUTAS DE TRANSPORTE PÚBLICO DENTRO DEL POLÍGONO DE ESTUDIO EN EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1ANTC9T92vr9Xz73OSilSSvnEd3LPFE1R,1ANTC9T92vr9Xz73OSilSSvnEd3LPFE1R,,,#f7c917
+2-Dec-2019,I-660,1,POTmet,RECORRIDO DE LA RUTA 172A DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1vLWahDgShVC9IOX1FQoxQs-wYHsRJFF4,1vLWahDgShVC9IOX1FQoxQs-wYHsRJFF4,,,#f7c917
+2-Dec-2019,I-661,1,POTmet,RECORRIDO DE LA RUTA 186 CAJITITLÁN DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1p2oj7h8Tzj0Mm6IevEsAMOZghr5QT0v5,1p2oj7h8Tzj0Mm6IevEsAMOZghr5QT0v5,,,#f7c917
+2-Dec-2019,I-662,1,POTmet,RECORRIDO DE LA RUTA 186 LA NORIA DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1JNYEGJWEKkUKmGVbZPoqEoqWZwRuI5Lu,1JNYEGJWEKkUKmGVbZPoqEoqWZwRuI5Lu,,,#f7c917
+2-Dec-2019,I-663,1,POTmet,RECORRIDO DE LA RUTA 186 VALLE DE LOS EMPERADORES DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1m2JWezI_xuLcO0m22vJ6Gru27AmO_j6U,1m2JWezI_xuLcO0m22vJ6Gru27AmO_j6U,,,#f7c917
+2-Dec-2019,I-664,1,POTmet,RECORRIDO DE LA RUTA 186A LOMAS DE TEJEDA DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1btmKn70xMPKI92B4hJL63o2zo6y3z_SY,1btmKn70xMPKI92B4hJL63o2zo6y3z_SY,,,#f7c917
+2-Dec-2019,I-665,1,POTmet,RECORRIDO DE LA RUTA 186A LÓPEZ MATEOS DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1c2VlDw72Kh66RuB8KosZ9FYBzuelXdqe,1c2VlDw72Kh66RuB8KosZ9FYBzuelXdqe,,,#f7c917
+2-Dec-2019,I-666,1,POTmet,RECORRIDO DE LA RUTA 187 DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=141m12RxNA0eoFJD91ZBNPBNYoxzjY5E8,141m12RxNA0eoFJD91ZBNPBNYoxzjY5E8,,,#f7c917
+2-Dec-2019,I-667,1,POTmet,RECORRIDO DE LA RUTA 187B DENTRO DEL POLÍGONO DE ESTUDIO EN CENTRO DE TLAJOMULCO (TLAJOMULCO DE ZÚÑIGA),En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MWKEmRhy9tMUqQAQMXdHsAcuC3Icw2Jn,1MWKEmRhy9tMUqQAQMXdHsAcuC3Icw2Jn,,,#f7c917
+11-Dec-2019,I-668,1,POTmet,SOLUCIÓN DE CONFLICTO DE LÍMITES MUNICIPALES DE LOS MUNICIPIOS DE GUADALAJARA Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1kZBo2AIM2-Nd4SomSdIEdeCnVQuwKpJ8,1kZBo2AIM2-Nd4SomSdIEdeCnVQuwKpJ8,,,#efde9d
+11-Dec-2019,I-669,1,POTmet,SOLUCIÓN DE CONFLICTO DE LÍMITES MUNICIPALES DE LOS MUNICIPIOS DE GUADALAJARA Y TLAQUEPAQUE,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1X5Bsffu0nMtW6sz9FyXSd0F1y00zW0n3,1X5Bsffu0nMtW6sz9FyXSd0F1y00zW0n3,,,#efde9d
+11-Dec-2019,I-670,1,POTmet,SITIOS DE CONTROVERSIA DE LÍMITES MUNICIPALES DE GUADALAJARA Y TLAQUEPAQUE,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1kdejc5jMQtAW06LzwJBPd8eJT2qGrQHS,1kdejc5jMQtAW06LzwJBPd8eJT2qGrQHS,,,#efde9d
+11-Dec-2019,I-671,1,POTmet,SITIOS DE CONTROVERSIA DE LÍMITES MUNICIPALES DE EL SALTO Y TLAJOMULCO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nexA2ADso8D6F1ORExIuwBIXFdgKT2-w,1nexA2ADso8D6F1ORExIuwBIXFdgKT2-w,,,#efde9d
+6-Jan-2020,I-672,1,POTmet,MAPA DE LOS MUNICIPIOS CUBIERTO POR LOS ESTUDIOS DE TRANSPORTE PÚBLICO PARA DICTAMINACIÓN 2019,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jose Luis Plascencia,IVT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19OZOfbZ7QWeG42NWhMaw76VXw0hq_U9u,19OZOfbZ7QWeG42NWhMaw76VXw0hq_U9u,,,#f7c917
+9-Jan-2020,I-416,2,POTmet,"Licencias  urbanización en relación al criterio de compacidad, julio 2016 - Noviembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=19-Dm-Putg7UAornN2S0b5hdWP3ttDo51,19-Dm-Putg7UAornN2S0b5hdWP3ttDo51,,,#efde9d
+9-Jan-2020,I-415,2,POTmet,"Licencias  urbanización en relación a las áreas de crecimiento,  julio 2016 - Noviembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1PCNaU163ephAvBvVaNxfTvhTBLUc8m3N,1PCNaU163ephAvBvVaNxfTvhTBLUc8m3N,,,#efde9d
+9-Jan-2020,I-414,2,POTmet,"Licencias   de urbanización en relación al indice de suficiencia de servicios básicos, julio 2016 - Noviembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MVADhcbBhwdVIOs30EQSHIZutGqfaRJp,1MVADhcbBhwdVIOs30EQSHIZutGqfaRJp,,,#efde9d
+9-Jan-2020,I-413,2,POTmet,"Licencias  de urbanización en relación al indice de demanda laboral externa, julio 2016 - Noviembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1MTZbdphDIcX0WUN9WZFyKOyC_KWYxQlb,1MTZbdphDIcX0WUN9WZFyKOyC_KWYxQlb,,,#efde9d
+13-Jan-2020,I-673,1,POTmet,SITIOS DE CONTROVERSIA DE LÍMITES MUNICIPALES DE GUADALAJARA Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1gstrvO8fwKFcCtejTsCpRtwz9SoLO318,1gstrvO8fwKFcCtejTsCpRtwz9SoLO318,,,#efde9d
+15-Jan-2020,I-674,1,Atlas de Riesgos,Accidentes de transporte de carga en polígono de restricción,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Palomino,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+15-Jan-2020,I-675,1,Atlas de Riesgos,Accidentes de transporte de carga en polígono de restricción con horario de 6 a 9,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Palomino,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+15-Jan-2020,I-676,1,Atlas de Riesgos,Accidentes de transporte y contignencias ambientales,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Stephanie Palomino,PMR,,Diagnóstico,,,,,,,,,,,,,#df6868
+20-Jan-2020,I-677,1,SIGmetro,RUTAS ALIMENTADORAS DEL TRANSPORTE MASIVO EN EL AMG,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas,IVT,,Base,,,,,,,,,,,,,#f7c917
+23/01/20,I-416,3,POTmet,"Licencias  urbanización en relación al criterio de compacidad, julio 2016 - Diciembre 2019. ",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1UfYAzycSInipyHEEglIQza50MDuJA59x,1UfYAzycSInipyHEEglIQza50MDuJA59x,,,#efde9d
+23/01/20,I-415,3,POTmet,"Licencias  urbanización en relación a las áreas de crecimiento, julio 2016 - Diciembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=10tFhFUIfPZUO-xzDh6ftSXxO7BF-eq2a,10tFhFUIfPZUO-xzDh6ftSXxO7BF-eq2a,,,#efde9d
+23/01/20,I-414,3,POTmet,"Licencias   de urbanización en relación al indice de suficiencia de servicios básicos, julio 2016 - Diciembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1lmzfNVof10XPweYtSDg1rqYEftrsMgDG,1lmzfNVof10XPweYtSDg1rqYEftrsMgDG,,,#efde9d
+23/01/20,I-413,3,POTmet,"Licencias  de urbanización en relación al indice de demanda laboral externa, julio 2016 - Diciembre 2019.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1d3RsdcLGVz_9W7-EYTI6y1iFGZ_-pwiP,1d3RsdcLGVz_9W7-EYTI6y1iFGZ_-pwiP,,,#efde9d
+28/01/20,I-418,3,POTmet,Cobertura de transporte público en licencias de urbanización,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Christian Aguilar,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1vV-ktK6_Pa-32iIVmpCRQyR8vcfQgGwl/view?usp=sharing,,,,#efde9d
+28/01/20,I-419,3,POTmet,Distancia de licencias de urbanización al transporte público,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Christian Aguilar,POT,IVT,Diagnóstico,,,,,,,,,https://drive.google.com/file/d/1X_r8Ix1JGpzwZASD1Uwl3VHxKLeVL2HP/view?usp=sharing,,,,#efde9d
+28/01/20,I-678,1,POTmet,"Análisis de los distritos y subdistritos en el AMG
+",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,"Alejandro Lepe
+",POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+.312/01/20,I-679,1,POTmet,COMPARATIVA DE RUTAS DEL MAPA BASE CON LAS RUTAS DEL LEVANTAMIENTO GTFS,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas,IVT,,Base,,,,,,,,,,,,,#f7c917
+4/2/2020,I-680,1,Atlas de Riesgos,INUNDACIONES REGISTRADAS MENSUALMENTE POR EL SISTEMA DE VIGILANCIA Y MONITORIEO VIMOZmetro,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Laura Guzmán Gutiérrez,PMR,,,,,,,,,,,,,,,#df6868
+5/2/2020,I-681,1,POTmet,"Estatus de avances de grupos de trabajo de 
+los límites territoriales del área Metropolitana 
+de Guadalajara.",En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,PRE,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nexA2ADso8D6F1ORExIuwBIXFdgKT2-w,1nexA2ADso8D6F1ORExIuwBIXFdgKT2-w,,,#efde9d
+5-Feb-2020,I-682,1,POTmet,PARADAS DE AUTOBÚS  LEVANTAMIENTO GTFS RUTA TRONCAL 01 18 DE MARZO,En proceso,(GTM) Gerencia Técnica de Movilidad.,,Jonathan Rosas,IVT,,Diagnóstico,,,,,,,,,,,,,#f7c917
+7-Feb-2020,I-683,1,POTmet,SITIOS DE CONTROVERSIA SIN CONSENSO EN EL LÍMITE MUNICIPAL DE GUADALAJARA Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DKGzNL8U56wrpy7Ez8dCTB4k5hTfVFUM,1DKGzNL8U56wrpy7Ez8dCTB4k5hTfVFUM,,,#efde9d
+7-Feb-2020,I-684,1,POTmet,SITIOS DE CONTROVERSIA SIN CONSENSO EN EL LÍMITE MUNICIPAL DE GUADALAJARA Y ZAPOPAN,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1qQ8Uos95VrHiasLT1FJXaU-Jl9SGfNvN,1qQ8Uos95VrHiasLT1FJXaU-Jl9SGfNvN,,,#efde9d
+7-Feb-2020,I-685,1,POTmet,SITIOS DE CONTROVERSIA SIN CONSENSO EN EL LÍMITE MUNICIPAL DE EL SALTO Y TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1nW2AMz2xpAlrHVsSl7ApOT1Kvbk2QQSr,1nW2AMz2xpAlrHVsSl7ApOT1Kvbk2QQSr,,,#efde9d
+7-Feb-2020,I-686,1,POTmet,SITIOS DE CONTROVERSIA SIN CONSENSO EN EL LÍMITE MUNICIPAL DE IXTLAHUACÁN DE LOS MEMBRILLOS Y TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=14fIJJT3tn0uvszMSVctO51XaY8fZNb0Q,14fIJJT3tn0uvszMSVctO51XaY8fZNb0Q,,,#efde9d
+7-Feb-2020,I-687,1,POTmet,SITIOS DE CONTROVERSIA EN EL LÍMITE MUNICIPAL DE  TLAQUEPAQUE Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1cMvdDKzv_XFqLm3lhLoWEYABdGmruS80,1cMvdDKzv_XFqLm3lhLoWEYABdGmruS80,,,#efde9d
+7-Feb-2020,I-688,1,POTmet,SITIOS DE CONTROVERSIA EN EL LÍMITE MUNICIPAL DE  TLAQUEPAQUE Y EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,,,#efde9d
+7-Feb-2020,I-689,1,POTmet,SITIOS DE CONTROVERSIA EN EL LÍMITE MUNICIPAL DE  TLAQUEPAQUE Y TLAJOMULCO DE ZÚÑIGA,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1PiCehupDHedqwwbz2NA8JDcPvZUCOPGk,1PiCehupDHedqwwbz2NA8JDcPvZUCOPGk,,,#efde9d
+7-Feb-2020,I-690,1,POTmet,SITIOS DE CONTROVERSIA EN EL LÍMITE MUNICIPAL DE  TLAQUEPAQUE Y ZAPOPAN,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1cknCKCCRKy9WMXecD138jSU2i-awb4iv,1cknCKCCRKy9WMXecD138jSU2i-awb4iv,,,#efde9d
+11-Feb-2020,I-691,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE GDL,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+12-Feb-2020,I-692,1,POTmet,POLÍGONOS CON ICUS/CUSMAX,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Sabás,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+12-Feb-2020,I-693,1,Atlas de Riesgos,MAPA HISTORICO DE INUNDACIÓNES MUN_GDL,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+12-Feb-2020,I-694,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE SLT,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+13-Feb-2020,I-695,1,POTmet,TRANSPORTE PÚBLICO INFORMAL EN EL AMG,En proceso,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1b8n2DQEwK7ZrSrlUrjCfQo0_7MBCOUZO,1b8n2DQEwK7ZrSrlUrjCfQo0_7MBCOUZO,,,#f7c917
+13-Feb-2020,I-695.1,1,POTmet,PRE-IDENTIFICACIÓN DE ZONAS CON OPERACIÓN DE TRANSPORTE PÚBLICO INFORMAL EN EL AMG,En proceso,(GTM) Gerencia Técnica de Movilidad.,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,Victoria Estrada,IVT,POT,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1NcrT7p6fY_l5H4EmvfKt76ht6IQwKcxC,1NcrT7p6fY_l5H4EmvfKt76ht6IQwKcxC,,,#f7c917
+14-Feb-2020,I-696,1,POTmet,ACUMULADO DE INVERSIÓN DEL CUSMAX (2017-2018),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Sabás,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
+13-Feb-2020,I-697,1,POTmet,TATEPOSCO - EL PEDREGAL SITIOS DE CONTROVERSIA COLINDANCIAS ENTRE LOS MUNICIPIOS TLAQUEPAQUE Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,,,#efde9d
+13-Feb-2020,I-698,1,POTmet,LA RUCIA - GUADALUPANA SITIOS DE CONTROVERSIA COLINDANCIAS ENTRE LOS MUNICIPIOS TLAQUEPAQUE Y TONALÁ,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,https://drive.google.com/open?id=1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,1DLs3p-3OC7arCDfCJFbqF12p23whZvCJ,,,#efde9d
+17-Feb-2020,I-699,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE TLJ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+17-Feb-2020,I-700,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE TLQ,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+17-Feb-2020,I-701,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE ZPN,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+17-Feb-2020,I-702,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE TON,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+17-Feb-2020,I-703,1,Atlas de Riesgos,MAPA DE EVENTOS RECURRENTES DE INUNDACIÓN DEL MPIO DE ZPT,En proceso,(GTGIR) Gerencia Técnica de Gestión Integral del Riesgos.,,Cuauhtémoc ,GIA,,Diagnóstico,,,,,,,,,,,,,#73b673
+17-Feb-2020,I-704.4,1,POTmet,ESTUDIO CMET-25 - MAPA ANEXO 4 ESTRATEGIA DE PERÍMETROS Y ÁREAS DE CRECIMIENTO DEL POTmet EN EL POLÍGONO DE ESTUDIO DE VILLA FONTANA DIAMANTE (ZAPOPAN),En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Ivan Hernández,IVT,,Diagnóstico,,,,,,,,,,,,,#f7c917
+17-02-20,I-705,1,POTmet,SITIOS DE CONTROVERSIA COLINDANCIAS ENTRE LOS MUNICIPIOS TLAQUEPAQUE Y EL SALTO,En proceso,(GTOTGS) Gerencia Técnica de Ordenamiento Territorial y Gestión del Suelo.,,Alicia Guzmán,POT,,Diagnóstico,,,,,,,,,,,,,#efde9d
